@@ -1,3 +1,3 @@
-## Co-Intelligence by Ethan Mollick ##
+## Co-Intelligence by Ethan Mollick
 
 xxxx
