@@ -1,4 +1,4 @@
-## Confirmation Bias
+## Cognitive Bias
 
 I was recently turned onto [Admired Leadreship Field Notes](https://admiredleadership.com/field-notes/) created by [CRA](https://crainc.com/).  Field Notes shares thoughts on challenges common to all leaders.  This led me to find [Confluence: The Intersection of AI and Communications](https://craai.substack.com/) by CRA.  CRA launched this [Substack](https://substack.com/home) "as a way to more broadly share the ideas, insights, and thinking at the intersection of AI and communication that capture our attention."  I have found Confluence, which just turned 1 year old in August, a very informative and particle communication on AI topics.  I highly suggest signing up for its articles on Substack.
 
