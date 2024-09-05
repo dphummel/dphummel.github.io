@@ -1,3 +1,3 @@
-## Confirmation Bias ##
+## Confirmation Bias
 
 xxx
