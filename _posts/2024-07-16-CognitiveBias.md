@@ -1,54 +1,59 @@
-## Using Generative AI to Combat Cognitive Biases
+# Using Generative AI to Combat Cognitive Bias
 
-I was recently turned onto [Admired Leadreship Field Notes](https://admiredleadership.com/field-notes/) created by [CRA](https://crainc.com/).  Field Notes shares thoughts on challenges common to all leaders.  This led me to find [Confluence: The Intersection of AI and Communications](https://craai.substack.com/) by CRA.  CRA launched this [Substack](https://substack.com/home) "as a way to more broadly share the ideas, insights, and thinking at the intersection of AI and communication that capture our attention."  I have found Confluence, which just turned 1 year old in August, a very informative and particle communication on a variety of AI topics.  
+I was recently discovered [Admired Leadreship Field Notes](https://admiredleadership.com/field-notes/) by [CRA](https://crainc.com/) which shares insights leadership challenges.  This led me to [Confluence: The Intersection of AI and Communications](https://craai.substack.com/), a [Substack](https://substack.com/home) by CRA that explores AI and communication.  Confluence, now a year old, provides practical information on various AI topics. 
 
-The [7.7.24 Confluence](https://craai.substack.com/p/confluence-for-7724) article on the Rashomon AI brought up the topic of *cognitive bias* within the contex of the Rashomon Effect.
+The [July 7, 2024 Confluence article](https://craai.substack.com/p/confluence-for-7724) article introduced me to the Rashomon Effect and its link to cognitive biases.
 
-[Dictionary.com](https://www.dictionary.com/browse/confirmation-bias) defines cognitive bias as a "bias that results from the tendency to process and analyze information in such a way that it suppots one's preexisting ideas and convictions."  People have a challenge analyzing information in an unbiased manner when they have developed an point of view on the topic.  People often relay on their instictive behaviors to process the volume of information coming at them, especially this day and age, and make decisions which can lead to different interpretations of objective facts.  
+### Cognitive Bias and the Rashomon Effect
 
-There are over 250 known cognitive bias, including:
-- ***Confirmation bias*** - the tendancy to seek only information that supports your perceptions and to devalue information which does not.  For example, failing to accept evidence that your solution does not solve all aspects of a problem.
-- ***Anchoring bias*** - the tendancy to rely to heavily on one trait or piece of information when making a decision.  For example, proposing a solution based on a manager's preferences.
-- ***Bandwagon effect*** - the tendancy to do or believe what others do or believe.  For example, taking a certain action because your mother always did it that way.
+Cognitive bias is our tendency to interpret information in a way that supports our existing beliefs.  This bias makes it hard to analyze information objectively, leading to different interpretations of the same facts. 
 
-The term *Rashomon Effect*, as called out in the Confluence article, was derived from the classic 1950 Japanese film "Rashomon," directed by Akira Kursawa.  In the movie, a samuria is found murdered.  Each of the four charaters provide a unique account of the incident which significantly differ from each other.  This highlights the subjectivity with individual perspectives due to factors including congitive biases leading to challenges in determining the truth.  
+There are over 250 known cognitive bias.  Here are a few:
+- ***Confirmation Bias*** - the tendancy to seek only information that supports your beliefs while ignoring contradictory evidence.  For example, failing to accept evidence that your solution does not solve all aspects of a problem.
+- ***Anchoring Bias*** - the tendancy to rely to heavily on one trait or piece of information when making a decision.  For example, proposing a solution based on a manager's preferences.
+- ***Bandwagon Effect*** - the tendancy to do or believe what others do or believe.  For example, taking a certain action because your mother always did it that way.
 
-To navigate this conundrum, it is important to understand a person's perspectives are shaped by congitive biases and to use techiques to overcome them.  A couple of these techniques are:
-- Consider all the facts, rather than just the facts which confirm your point of view
-- Seek out diverse perspectives including those who have different views.
-- Be open to chaning your point of view in light of new facts.
+The *Rashomon Effect*, as highlighted in Confluence, comes from the 1950 Japanese film "Rashomon."  In the film, four charaters offer different accounts of the same event, illustrating how personal perspectives can distort the truth due to cognitive biases.
 
-Diverse perspectives is a very powerful concept and one which is being [emphasized](https://www.linkedin.com/pulse/benefits-diverse-perspectives-workplace-diane-moura/) across many organizations today.  This concept refers to a range of different experiences and views which people bring to the table.  Bringing diverse perspectives to the table can help you a situation from different, new perspectives to help objective assess the facts and get to the truth.
+### Overcoming Cognitive Biases with Generative AI
 
-Generative AI can help an person in seeking out diverse perspectives.  The Confluence team created a prompt using Claude 3.5 Sonnet to enable a Large Language Model (LLM) to provide a set of diverse perpsectices on a situation.  The prompt asks a LLM to help expose cognitive biases by providing an initial perspective on what happened along with 3-4 alternative or difffernt interpretations of the same situation.  Each narative will contain:
-- Key assumptions and underlying beliefs
-- Idenitfy data or facts emphasized or overlooked
-- Explain how the perspective might influence decision making
-- Share potential short-term and long-term consequences of acting on the perspective
+To navigate this challenge, it's essential to recognize that our perspectives are shaped by cognitive biases and to use stratiges to overcome them:
 
-The narative will also anlayize potential congitive biases, provide a set of probing questions for each narative to challenge core assuptions, and provide additional suggestions on additional data sources, and recommend startgies to mitigate congitive biases.
+- Consider all the facts, not just those that support your views.
+- Seek diverse perspectives from people with different viewpoints.
+- Stay open to changing your mind when new information arises.
 
-I tested out the Confluense Rashomon AI prompt using a situaiton which happened earlier in the week.  I woke up one morning to see many tree braches broken around our block.  A severe storm had come through Chicago the prior night.  I had initially concluded the branches had fallen due to the high winds from the storm, but I recognized this was my bias based on what I had seem in the past during similar storms.  
+Diverse perspectives are crucial in seeing situations from different angles and reaching more acureate conclusions.  Generative AI can help by provide these varied viewpoints.
 
-I entered the prompt into ChatGPT and shared the following situation "A branch from the tree located in my front yard had fallen to the ground last night.  A severe storm came through my town last night with very high winds and a lot of rain."
+The Confluense team developed a prompt using Claued 3.5 Sonnet, an AI model, to generate different perspectives on a situation.  This AI promot asks a Large Language Model (LLM) for:
 
-ChatGPT provide an initial perspective (see fulll response below) that the storm was the primary cauase of the tree branch falling.  ChatGPT points out that this perspective could potentially be overlooking the tree's pre-exisitng condition.  The alternative naratives provided are:
-- The tree was already weakened by factors such as age, disease, or previous damage.  The storm simply exposed the vulnerabilites, cauisng the branch to fall.  This narative helps me to consider an evaluation of the tree to proactively address any issues.  If I did not consider this narative, I might just clean up the broken branch and not see the risk of this happening again.
-- The storm was unusually severe and even a strong, healthy tree woudl sturgger to withstand the impact.  I am challenged to understand how this alternative narative is different from the initial narative.
-- The brach's position made it vulnerable and it might make sense to focus on pruning or removing vulnerable branches to prevent similar incidents.
+- An initial perspective on the event.
+- 3-4 alternative interpretations.
+- Analysis of key assumptions, overlooked data, and potential decision-making influences.
+- Possible cognitive biases, probing questions to challenge assumptions, additional data sources, and strategies to mitigate biases.
 
-I found the naratives really helped me see and consider different perspectives on the cause of the tree branch falling.  My cognitive biases caused me to initially conclude the case of the issue was the storm.  ChatGPT helped me bring in a diverse set of perspectives to the table to help me define a set of actions to more accurately conclude what caused the branch to fall and take the proper actions to prevent a similar situation in the future.
+### My Experience with the Rashomon AI Prompt
 
-The results of this exercised help me see the power prompt engineering using LLMs like ChatGPT.  The Rashomon AI prompt enabled me to quickly see a set of diverse perpsectives on a situation.  I was able to use these perspectives to take better actions to determine the true cause of the situation and the actions I should take vs. just assuming it was due to the storm.  I valued the speed at which I was able to get these perspectives and focused on being opened to considering additional data and facts.
+I tested this prompt with a siutation from last week: A tree branch in my yard fell during a severe storm.  I initially assumed the storm caused the branch to fall, but I recognized this could be a bias based on past experiences.
 
-Since I don't have the ability create custom GTPs, I have started to save prompts like the Rashomon AI prompt in the Notes application on my iMac.  I am exited to add this prompt to my tool belt and will be using it moving forward to help combat my biases in addition to bringing diverse thoughts to the table from people in my organization and network!
+When I entered the scenario into ChatGPT, it gave me an initial perspective that the storm was the cause but also suggested that I might be overlooking the tree's condition.  The alternative naratives included:
 
-I am looking forward to hearing about your experiences with the Rashomon AI prompt.
+- The tree was already weakened, and the storm exposed its vulnerabilites. 
+- The storm was unusually severe and even healthy trees struggle.
+- The brach's position made it more vulnerable to falling.
 
-AI Disclosure:  I used generative AI as an editor and proofreader.
+These narratives helped me consider different factors and prompted me to take a closer looka t the tree's health, rather than just blaming the storm.
+
+### Conclusion
+
+Using Generative AI, like the Rashomon AI prompt, can quickly present diverse perspectives, helping us combat cognitive biases and make better decisions based on facts. 
+
+I am excited to hear your experiences with the Rashomon AI prompt!
+
+***AI Disclosure:***  I used generative AI as an editor and proofreader.
 
 -----------------------------------------------
-Here is the response I received from ChatGPT on the tree brach which fell in my front yard:
+Here is ChatGPT's response to my prompt "*A branch from the tree located in my front yard had fallen to the ground last night.  A severe storm case through my town last night with very high winds and a lot of rain.*"
 
 ## Initial Perspective: ##
 
