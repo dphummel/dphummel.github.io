@@ -2,7 +2,7 @@
 
 I was recently turned onto [Admired Leadreship Field Notes](https://admiredleadership.com/field-notes/) created by [CRA](https://crainc.com/).  Field Notes shares thoughts on challenges common to all leaders.  This led me to find [Confluence: The Intersection of AI and Communications](https://craai.substack.com/) by CRA.  CRA launched this [Substack](https://substack.com/home) "as a way to more broadly share the ideas, insights, and thinking at the intersection of AI and communication that capture our attention."  I have found Confluence, which just turned 1 year old in August, a very informative and particle communication on a variety of AI topics.  
 
-The [7.7.24 Confluence article](https://craai.substack.com/p/confluence-for-7724) brought up the topic of *cognitive bias* within the contexto the Rashomon Effect.
+The [7.7.24 Confluence](https://craai.substack.com/p/confluence-for-7724) article on the Rashomon AI brought up the topic of *cognitive bias* within the contex of the Rashomon Effect.
 
 [Dictionary.com](https://www.dictionary.com/browse/confirmation-bias) defines cognitive bias as a "bias that results from the tendency to process and analyze information in such a way that it suppots one's preexisting ideas and convictions."  People have a challenge analyzing information in an unbiased manner when they have developed an point of view on the topic.  People often relay on their instictive behaviors to process the volume of information coming at them, especially this day and age, and make decisions which can lead to different interpretations of objective facts.  
 
@@ -31,6 +31,19 @@ The narative will also anlayize potential congitive biases, provide a set of pro
 I tested out the Confluense Rashomon AI prompt using a situaiton which happened earlier in the week.  I woke up one morning to see many tree braches broken around our block.  A severe storm had come through Chicago the prior night.  I had initially concluded the branches had fallen due to the high winds from the storm, but I recognized this was my bias based on what I had seem in the past during similar storms.  
 
 I entered the prompt into ChatGPT and shared the following situation "A branch from the tree located in my front yard had fallen to the ground last night.  A severe storm came through my town last night with very high winds and a lot of rain."
+
+ChatGPT provide an initial perspective (see fulll response below) that the storm was the primary cauase of the tree branch falling.  ChatGPT points out that this perspective could potentially be overlooking the tree's pre-exisitng condition.  The alternative naratives provided are:
+- The tree was already weakened by factors such as age, disease, or previous damage.  The storm simply exposed the vulnerabilites, cauisng the branch to fall.  This narative helps me to consider an evaluation of the tree to proactively address any issues.  If I did not consider this narative, I might just clean up the broken branch and not see the risk of this happening again.
+- The storm was unusually severe and even a strong, healthy tree woudl sturgger to withstand the impact.  I am challenged to understand how this alternative narative is different from the initial narative.
+- The brach's position made it vulnerable and it might make sense to focus on pruning or removing vulnerable branches to prevent similar incidents.
+
+I found the naratives really helped me see and consider different perspectives on the cause of the tree branch falling.  My cognitive biases caused me to initially conclude the case of the issue was the storm.  ChatGPT helped me bring in a diverse set of perspectives to the table to help me define a set of actions to more accurately conclude what caused the branch to fall and take the proper actions to prevent a similar situation in the future.
+
+The results of this exercised help me see the power prompt engineering using LLMs like ChatGPT.  The Rashomon AI prompt enabled me to quickly see a set of diverse perpsectives on a situation.  I was able to use these perspectives to take better actions to determine the true cause of the situation and the actions I should take vs. just assuming it was due to the storm.  I valued the speed at which I was able to get these perspectives and focused on being opened to considering additional data and facts.
+
+Since I don't have the ability create custom GTPs, I have started to save prompts like the Rashomon AI prompt in the Notes application on my iMac.  I am exited to add this prompt to my tool belt and will be using it moving forward to help combat my biases in addition to bringing diverse thoughts to the table from people in my organization and network!
+
+I am looking forward to hearing about your experiences with the Rashomon AI prompt.
 
 AI Disclosure:  I used generative AI as an editor and proofreader.
 
