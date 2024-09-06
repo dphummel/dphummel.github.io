@@ -20,6 +20,16 @@ To navigate this conundrum, it is important to understand a person's perspective
 
 Diverse perspectives is a very powerful concept and one which is being [emphasized](https://www.linkedin.com/pulse/benefits-diverse-perspectives-workplace-diane-moura/) across many organizations today.  This concept refers to a range of different experiences and views which people bring to the table.  Bringing diverse perspectives to the table can help you a situation from different, new perspectives to help objective assess the facts and get to the truth.
 
-Generative AI can help an person in seeking out diverse perspectives.
+Generative AI can help an person in seeking out diverse perspectives.  The Confluence team created a prompt using Claude 3.5 Sonnet to enable a Large Language Model (LLM) to provide a set of diverse perpsectices on a situation.  The prompt asks a LLM to help expose cognitive biases by providing an initial perspective on what happened along with 3-4 alternative or difffernt interpretations of the same situation.  Each narative will contain:
+- Key assumptions and underlying beliefs
+- Idenitfy data or facts emphasized or overlooked
+- Explain how the perspective might influence decision making
+- Share potential short-term and long-term consequences of acting on the perspective
+
+The narative will also anlayize potential congitive biases, provide a set of probing questions for each narative to challenge core assuptions, and provide additional suggestions on additional data sources, and recommend startgies to mitigate congitive biases.
+
+I tested out the Confluense Rashomon AI prompt using a situaiton which happened earlier in the week.  I woke up one morning to see many tree braches broken around our block.  A severe storm had come through Chicago the prior night.  I had initially concluded the branches had fallen due to the high winds from the storm, but I recognized this was my bias based on what I had seem in the past during similar storms.  
+
+I entered the prompt into ChatGPT and shared the following situation "A branch from the tree located in my front yard had fallen to the ground last night.  A severe storm came through my town last night with very high winds and a lot of rain."
 
 AI Disclosure:  I used generative AI as an editor and proofreader.
