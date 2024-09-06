@@ -8,7 +8,7 @@ The [July 7, 2024 Confluence article](https://craai.substack.com/p/confluence-fo
 
 Cognitive bias is our tendency to interpret information in a way that supports our existing beliefs.  This bias makes it hard to analyze information objectively, leading to different interpretations of the same facts. 
 
-There are over 250 known cognitive bias.  Here are a few:
+There are over 250 known cognitive biases.  Here are a few:
 - ***Confirmation Bias*** - the tendancy to seek only information that supports your beliefs while ignoring contradictory evidence.  For example, failing to accept evidence that your solution does not solve all aspects of a problem.
 - ***Anchoring Bias*** - the tendancy to rely to heavily on one trait or piece of information when making a decision.  For example, proposing a solution based on a manager's preferences.
 - ***Bandwagon Effect*** - the tendancy to do or believe what others do or believe.  For example, taking a certain action because your mother always did it that way.
