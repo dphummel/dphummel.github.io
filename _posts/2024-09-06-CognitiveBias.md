@@ -36,7 +36,7 @@ The Confluense team developed a prompt using Claued 3.5 Sonnet, an AI model, to 
 
 I tested this prompt with a siutation from last week: A tree branch in my yard fell during a severe storm.  I initially assumed the storm caused the branch to fall, but I recognized this could be a bias based on past experiences.
 
-When I entered the scenario into ChatGPT, it gave me an [initial perspective](https://github.com/dphummel.github.io/blob/main/_includes/RashomonExample2.md) that the storm was the cause but also suggested that I might be overlooking the tree's condition.  The alternative naratives included:
+When I entered the scenario into ChatGPT, it gave me an [initial perspective](_includes/RashomonExample2.md) that the storm was the cause but also suggested that I might be overlooking the tree's condition.  The alternative naratives included:
 
 - The tree was already weakened, and the storm exposed its vulnerabilites. 
 - The storm was unusually severe and even healthy trees struggle.
