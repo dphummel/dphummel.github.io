@@ -1,13 +1,25 @@
-## Cognitive Bias
+## Using Generative AI to Combat Cognitive Biases
 
-I was recently turned onto [Admired Leadreship Field Notes](https://admiredleadership.com/field-notes/) created by [CRA](https://crainc.com/).  Field Notes shares thoughts on challenges common to all leaders.  This led me to find [Confluence: The Intersection of AI and Communications](https://craai.substack.com/) by CRA.  CRA launched this [Substack](https://substack.com/home) "as a way to more broadly share the ideas, insights, and thinking at the intersection of AI and communication that capture our attention."  I have found Confluence, which just turned 1 year old in August, a very informative and particle communication on AI topics.  I highly suggest signing up for its articles on Substack.
+I was recently turned onto [Admired Leadreship Field Notes](https://admiredleadership.com/field-notes/) created by [CRA](https://crainc.com/).  Field Notes shares thoughts on challenges common to all leaders.  This led me to find [Confluence: The Intersection of AI and Communications](https://craai.substack.com/) by CRA.  CRA launched this [Substack](https://substack.com/home) "as a way to more broadly share the ideas, insights, and thinking at the intersection of AI and communication that capture our attention."  I have found Confluence, which just turned 1 year old in August, a very informative and particle communication on a variety of AI topics.  
 
-The [7.7.24 Confluence article](https://craai.substack.com/p/confluence-for-7724) brought up the topic of *confirmation bias*.  
+The [7.7.24 Confluence article](https://craai.substack.com/p/confluence-for-7724) brought up the topic of *cognitive bias* within the contexto the Rashomon Effect.
 
-Confirmation bias, as defined by the [Britannica](https://www.britannica.com/science/confirmation-bias), is "people's tendancy to process information by looking for, or interpreting, information that is consistent with their exsting beliefs."  People have a challenge analyzing information in an unbiased manner when they have developed an point of view on the topic.  People often relay on their instictive behaviors to process a lot of information coming at them, especially this day and age, to make decisions.  It is also thought configuration bias helps protect self-esteem by seeking information that supports thier existing beliefs.  
+[Dictionary.com](https://www.dictionary.com/browse/confirmation-bias) defines cognitive bias as a "bias that results from the tendency to process and analyze information in such a way that it suppots one's preexisting ideas and convictions."  People have a challenge analyzing information in an unbiased manner when they have developed an point of view on the topic.  People often relay on their instictive behaviors to process the volume of information coming at them, especially this day and age, and make decisions which can lead to different interpretations of objective facts.  
 
-A couple of ways to overcome confirmation bias area:
+There are over 250 known cognitive bias, including:
+- ***Confirmation bias*** - the tendancy to seek only information that supports your perceptions and to devalue information which does not.  For example, failing to accept evidence that your solution does not solve all aspects of a problem.
+- ***Anchoring bias*** - the tendancy to rely to heavily on one trait or piece of information when making a decision.  For example, proposing a solution based on a manager's preferences.
+- ***Bandwagon effect*** - the tendancy to do or believe what others do or believe.  For example, taking a certain action because your mother always did it that way.
+
+The term *Rashomon Effect*, as called out in the Confluence article, was derived from the classic 1950 Japanese film "Rashomon," directed by Akira Kursawa.  In the movie, a samuria is found murdered.  Each of the four charaters provide a unique account of the incident which significantly differ from each other.  This highlights the subjectivity with individual perspectives due to factors including congitive biases leading to challenges in determining the truth.  
+
+To navigate this conundrum, it is important to understand a person's perspectives are shaped by congitive biases and to use techiques to overcome them.  A couple of these techniques are:
 - Consider all the facts, rather than just the facts which confirm your point of view
-- Seek out different perspectives including those who have different views
-- Be open to chaning your point of view in light of new facts
+- Seek out diverse perspectives including those who have different views.
+- Be open to chaning your point of view in light of new facts.
 
+Diverse perspectives is a very powerful concept and one which is being [emphasized](https://www.linkedin.com/pulse/benefits-diverse-perspectives-workplace-diane-moura/) across many organizations today.  This concept refers to a range of different experiences and views which people bring to the table.  Bringing diverse perspectives to the table can help you a situation from different, new perspectives to help objective assess the facts and get to the truth.
+
+Generative AI can help an person in seeking out diverse perspectives.
+
+AI Disclosure:  I used generative AI as an editor and proofreader.
