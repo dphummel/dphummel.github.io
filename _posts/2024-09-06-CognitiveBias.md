@@ -4,7 +4,7 @@ I was recently discovered [Admired Leadreship Field Notes](https://admiredleader
 
 The [July 7, 2024 Confluence article](https://craai.substack.com/p/confluence-for-7724) article introduced me to the Rashomon Effect and its link to cognitive biases.
 
-#### Cognitive Bias and the Rashomon Effect
+### Cognitive Bias and the Rashomon Effect
 
 Cognitive bias is our tendency to interpret information in a way that supports our existing beliefs.  This bias makes it hard to analyze information objectively, leading to different interpretations of the same facts. 
 
@@ -15,7 +15,7 @@ There are over 250 known cognitive bias.  Here are a few:
 
 The *Rashomon Effect*, as highlighted in Confluence, comes from the 1950 Japanese film "Rashomon."  In the film, four charaters offer different accounts of the same event, illustrating how personal perspectives can distort the truth due to cognitive biases.
 
-#### Overcoming Cognitive Biases with Generative AI
+### Overcoming Cognitive Biases with Generative AI
 
 To navigate this challenge, it's essential to recognize that our perspectives are shaped by cognitive biases and to use stratiges to overcome them:
 
@@ -32,7 +32,7 @@ The Confluense team developed a prompt using Claued 3.5 Sonnet, an AI model, to 
 - Analysis of key assumptions, overlooked data, and potential decision-making influences.
 - Possible cognitive biases, probing questions to challenge assumptions, additional data sources, and strategies to mitigate biases.
 
-#### My Experience with the Rashomon AI Prompt
+### My Experience with the Rashomon AI Prompt
 
 I tested this prompt with a siutation from last week: A tree branch in my yard fell during a severe storm.  I initially assumed the storm caused the branch to fall, but I recognized this could be a bias based on past experiences.
 
@@ -44,7 +44,7 @@ When I entered the scenario into ChatGPT, it gave me an [initial perspective](Ra
 
 These narratives helped me consider different factors and prompted me to take a closer looka t the tree's health, rather than just blaming the storm.
 
-#### Conclusion
+### Conclusion
 
 Using Generative AI, like the Rashomon AI prompt, can quickly present diverse perspectives, helping us combat cognitive biases and make better decisions based on facts. 
 
