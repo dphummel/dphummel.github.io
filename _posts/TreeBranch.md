@@ -1,4 +1,4 @@
-## Initial Perspective: 
+## Initial Perspective: ##
 
 Last night, during a severe storm with high winds and heavy rain, a branch from the tree in your front yard fell to the ground. You believe the storm was the primary cause of the branch falling, given its intensity. This incident has likely raised concerns about the tree's overall stability and the potential for more damage if future storms occur. Your immediate thoughts might be focused on clearing the debris and possibly evaluating the tree to ensure it doesn't pose further risks.
 
