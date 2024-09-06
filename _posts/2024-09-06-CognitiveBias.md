@@ -1,4 +1,4 @@
-# Using Generative AI to Combat Cognitive Bias
+# Using Generative AI to Combat Cognitive Bias XXX
 
 I was recently discovered [Admired Leadreship Field Notes](https://admiredleadership.com/field-notes/) by [CRA](https://crainc.com/) which shares insights leadership challenges.  This led me to [Confluence: The Intersection of AI and Communications](https://craai.substack.com/), a [Substack](https://substack.com/home) by CRA that explores AI and communication.  Confluence, now a year old, provides practical information on various AI topics.  
 
