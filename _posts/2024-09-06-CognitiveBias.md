@@ -1,8 +1,8 @@
 # Using Generative AI to Combat Cognitive Bias
 
-I was recently discovered [Admired Leadreship Field Notes](https://admiredleadership.com/field-notes/) by [CRA](https://crainc.com/) which shares insights leadership challenges.  This led me to [Confluence: The Intersection of AI and Communications](https://craai.substack.com/), a [Substack](https://substack.com/home) by CRA that explores AI and communication.  Confluence, now a year old, provides practical information on various AI topics.  
+I recently discovered [Admired Leadreship Field Notes](https://admiredleadership.com/field-notes/) by [CRA](https://crainc.com/) which shares insights leadership challenges.  This led me to [Confluence: The Intersection of AI and Communications](https://craai.substack.com/), a [Substack](https://substack.com/home) by CRA that explores AI and communication.  Confluence, now a year old, provides practical information on various AI topics.  
 
-The [July 7, 2024 Confluence article](https://craai.substack.com/p/confluence-for-7724) article introduced me to the Rashomon Effect and its link to cognitive biases.
+The [July 7, 2024 Confluence article](https://craai.substack.com/p/confluence-for-7724)  introduced me to the Rashomon Effect and its link to cognitive bias.
 
 ### Cognitive Bias and the Rashomon Effect
 
@@ -25,7 +25,7 @@ To navigate this challenge, it's essential to recognize that our perspectives ar
 
 Diverse perspectives are crucial in seeing situations from different angles and reaching more acureate conclusions.  Generative AI can help by provide these varied viewpoints.
 
-The Confluense team developed a prompt using Claued 3.5 Sonnet, an AI model, to generate different perspectives on a situation.  This AI promot asks a Large Language Model (LLM) for:
+The Confluense team developed a *Rashomon AI* prompt using [Claude 3.5 Sonnet](https://claude.ai/login?returnTo=%2F%3F) to generate different perspectives on a situation.  This promot, which can be presented to any Large Language Model (LLM), asks for:
 
 - An initial perspective on the event.
 - 3-4 alternative interpretations.
@@ -34,7 +34,7 @@ The Confluense team developed a prompt using Claued 3.5 Sonnet, an AI model, to 
 
 ### My Experience with the Rashomon AI Prompt
 
-I tested this prompt with a siutation from last week: A tree branch in my yard fell during a severe storm.  I initially assumed the storm caused the branch to fall, but I recognized this could be a bias based on past experiences.
+I tested the *Rashomon AI* prompt with a siutation from last week: A tree branch in my yard fell during a severe storm.  I initially assumed the storm caused the branch to fall, but I recognized this could be a bias based on past experiences.
 
 When I entered the scenario into ChatGPT, it gave me an [initial perspective](../css/RashomonExample3.md) that the storm was the cause but also suggested that I might be overlooking the tree's condition.  The alternative naratives included:
 
