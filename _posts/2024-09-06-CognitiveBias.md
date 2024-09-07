@@ -1,6 +1,6 @@
 # Using Generative AI to Combat Cognitive Bias
 
-I recently discovered [Admired Leadreship Field Notes](https://admiredleadership.com/field-notes/) by [CRA](https://crainc.com/) which shares insights leadership challenges.  This led me to [Confluence: The Intersection of AI and Communications](https://craai.substack.com/), a [Substack](https://substack.com/home) by CRA that explores AI and communication.  Confluence, now a year old, provides practical information on various AI topics.  
+I recently discovered [Admired Leadreship Field Notes](https://admiredleadership.com/field-notes/) by [CRA](https://crainc.com/) which shares insights leadership challenges.  This led me to [Confluence: The Intersection of AI and Communications](https://craai.substack.com/), a [Substack](https://substack.com/home) by CRA that explores AI and communication.  Confluence, now a year old, provides practical information on various AI topics.   
 
 The [July 7, 2024 Confluence article](https://craai.substack.com/p/confluence-for-7724)  introduced me to the Rashomon Effect and its link to cognitive bias.
 
