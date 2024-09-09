@@ -36,7 +36,7 @@ The *Confluence* team developed a Rashomon AI prompt using [Claude 3.5 Sonnet](h
 
 I tested the Rashomon AI prompt with a situation from last week: A tree branch in my yard fell during a severe storm.  I initially assumed the storm caused the branch to fall, but I recognized this could be a bias based on past experiences.
 
-When I entered the scenario into ChatGPT, it gave me an [initial perspective](../documentation/RashomonExample.md) that the storm was the cause but also suggested that I might be overlooking the tree's condition.  The alternative narratives included:
+When I entered the scenario into [ChatGPT](https://chatgpt.com/), it gave me an [initial perspective](../documentation/RashomonExample.md) that the storm was the cause but also suggested that I might be overlooking the tree's condition.  The alternative narratives included:
 
 - The tree was already weakened, and the storm exposed its vulnerabilities. 
 - The storm was unusually severe and even healthy trees struggle.
