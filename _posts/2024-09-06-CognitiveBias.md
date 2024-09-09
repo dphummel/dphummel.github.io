@@ -48,9 +48,9 @@ These narratives helped me consider different factors and prompted me to take a 
 
 The Rashomon AI prompt is a powerful tool that demonstrates how well-crafted prompts can enable Large Language Models (LLMs) to generate diverse perspectives, challenging our cognitive biases and enriching our decision-making process.
 
-This exercise has shown me the value, as Elan Mollick describes in his book *Co-Intelligence*, of using AI as a thinking companion to enhance our decision-making abilities.  I’ve added the Rashomon AI prompt to my toolkit and I am looking forward to creating new prompts to explore the positive impact AI can have on our lives.
+This exercise has shown me the value, as Elan Mollick describes in his book *Co-Intelligence*, of using AI as a thinking companion to enhance our decision-making abilities.  I’ve added the Rashomon AI prompt to my toolkit and I am looking forward to creating new prompts to explore the positive impact AI can have on my life.
 
-I’m eager to hear about your experiences with this and other prompts!
+I encourage you to test out the Rashomon AI prompt on your own.  If you are new to creating prompts, MIT has publised an [article](https://mitsloanedtech.mit.edu/ai/basics/effective-prompts/) on crafting effective prompts.  I am looking forward to hearing about your experiences!
 
 
 ***AI Disclosure:***  I used generative AI as an editor and proofreader this article.
