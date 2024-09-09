@@ -1,4 +1,4 @@
-title: "Intelligence Reimagined 2"
+title: "Intelligence Reimagined 3"
 author: "David P. Hummel"
 description: "A space where the boundaries of artificial intelligence are explored."
 
@@ -23,9 +23,9 @@ theme: "minima"
  
 rss: rss
 
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
+#kramdown:
+#  syntax_highlighter_opts:
+#    disable: true
     
 plugins:
   - jekyll-feed
