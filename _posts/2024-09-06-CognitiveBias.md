@@ -50,6 +50,6 @@ The Rashomon AI prompt is a compelling example of how thoughtful prompt design c
 
 This exercise has helped me see the benefit, as Elan Mollick states in his book *Co-Intelligence*, of inviting AI to the table - using AI as a thinking companion to augment our decision making skills.  I am have added the Rashomon AI prompt to my tool belt and I am looking forward to creating new prompts to help me learn about where AI can have an positive impact on my life.
 
-And I am excited to hear your experiences with this prompt and others!
+I am excited to hear your experiences with this prompt and others!
 
 ***AI Disclosure:***  I used generative AI as an editor and proofreader this article.
