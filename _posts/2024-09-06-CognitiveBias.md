@@ -1,4 +1,4 @@
-# Using Generative AI to Combat Cognitive Bias XXX5 
+# Using Generative AI to Combat Cognitive Bias 
 
 I recently discovered [Admired Leadreship Field Notes](https://admiredleadership.com/field-notes/) by [CRA](https://crainc.com/) which shares insights leadership challenges.  This led me to [Confluence: The Intersection of AI and Communications](https://craai.substack.com/), a [Substack](https://substack.com/home) by CRA that explores AI and communication.  Confluence, now a year old, provides practical information on various AI topics.   
 
@@ -36,7 +36,7 @@ The Confluense team developed a *Rashomon AI* prompt using [Claude 3.5 Sonnet](h
 
 I tested the *Rashomon AI* prompt with a siutation from last week: A tree branch in my yard fell during a severe storm.  I initially assumed the storm caused the branch to fall, but I recognized this could be a bias based on past experiences.
 
-When I entered the scenario into ChatGPT, it gave me an [initial perspective](../documentation/RashomonExample.html) that the storm was the cause but also suggested that I might be overlooking the tree's condition.  The alternative naratives included:
+When I entered the scenario into ChatGPT, it gave me an [initial perspective](../documentation/RashomonExample.md) that the storm was the cause but also suggested that I might be overlooking the tree's condition.  The alternative naratives included:
 
 - The tree was already weakened, and the storm exposed its vulnerabilites. 
 - The storm was unusually severe and even healthy trees struggle.
