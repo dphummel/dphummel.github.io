@@ -25,7 +25,7 @@ To navigate this challenge, it's essential to recognize that our perspectives ar
 
 Diverse perspectives are crucial in seeing situations from different angles and reaching more accurate conclusions.  Generative AI, specifically prompt engineering for Large Language Models (LLMs), can help by providing these varied viewpoints.
 
-The *Confluence* team developed a Rashomon AI prompt using [Claude 3.5 Sonnet](https://claude.ai/login?returnTo=%2F%3F) to generate diverse perspectives on a situation.  This prompt, which can be presented to any LLM, asks for:
+The *Confluence* team developed a Rashomon AI prompt using [Claude](https://claude.ai/login?returnTo=%2F%3F) to generate diverse perspectives on a situation.  This prompt, which can be presented to any LLM, asks for:
 
 - An initial perspective on the event.
 - 3-4 alternative interpretations.
