@@ -1,4 +1,4 @@
-title: "Intelligence Reimagined 3"
+title: "Intelligence Reimagined 4"
 author: "David P. Hummel"
 description: "A space where the boundaries of artificial intelligence are explored."
 
@@ -20,7 +20,9 @@ linkedin_username: "davidphummel"
 #########################################################################################
 theme: "minima"
 #theme: jekyll-theme-architect   
- 
+
+permalink: 
+
 rss: rss
 
 #kramdown:
