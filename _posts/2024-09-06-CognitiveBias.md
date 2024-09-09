@@ -50,7 +50,7 @@ The Rashomon AI prompt is a powerful tool that demonstrates how well-crafted pro
 
 This exercise has shown me the value, as Elan Mollick describes in his book *Co-Intelligence*, of using AI as a thinking companion to enhance our decision-making abilities.  I’ve added the Rashomon AI prompt to my toolkit and I am looking forward to creating new prompts to explore the positive impact AI can have on my life.
 
-I encourage you to test out the Rashomon AI prompt on your own.  MIT has publised an [article](https://mitsloanedtech.mit.edu/ai/basics/effective-prompts/) on crafting effective prompts to help you expand your knowledge and skills.  
+I encourage you to test out the Rashomon AI prompt on your own along with learning about [best practices](https://mitsloanedtech.mit.edu/ai/basics/effective-prompts/) to craft effective prompts.
 
 I am looking forward to hearing about your experiences!
 
