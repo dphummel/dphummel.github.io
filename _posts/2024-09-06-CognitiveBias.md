@@ -10,7 +10,7 @@ Cognitive bias is our tendency to interpret information in a way that supports o
 
 There are over 250 known cognitive biases.  Here are a few:
 - ***Confirmation Bias*** - the tendancy to seek only information that supports your beliefs while ignoring contradictory evidence.  For example, failing to accept evidence that your solution does not solve all aspects of a problem.
-- ***Anchoring Bias*** - the tendancy to rely to heavily on one trait or piece of information when making a decision.  For example, proposing a solution based on a manager's preferences.
+- ***Anchoring Bias*** - the tendancy to rely too on heavily on one trait or piece of information when making a decision.  For example, proposing a solution based on a manager's preferences.
 - ***Bandwagon Effect*** - the tendancy to do or believe what others do or believe.  For example, taking a certain action because your mother always did it that way.
 
 The *Rashomon Effect*, as highlighted in Confluence, comes from the 1950 Japanese film "Rashomon."  In the film, four charaters offer different accounts of the same event, illustrating how personal perspectives can distort the truth due to cognitive biases.
@@ -25,7 +25,7 @@ To navigate this challenge, it's essential to recognize that our perspectives ar
 
 Diverse perspectives are crucial in seeing situations from different angles and reaching more acureate conclusions.  Generative AI can help by provide these varied viewpoints.
 
-The Confluense team developed a *Rashomon AI* prompt using [Claude 3.5 Sonnet](https://claude.ai/login?returnTo=%2F%3F) to generate different perspectives on a situation.  This promot, which can be presented to any Large Language Model (LLM), asks for:
+The Confluence team developed a *Rashomon AI* prompt using [Claude 3.5 Sonnet](https://claude.ai/login?returnTo=%2F%3F) to generate different perspectives on a situation.  This promot, which can be presented to any Large Language Model (LLM), asks for:
 
 - An initial perspective on the event.
 - 3-4 alternative interpretations.
@@ -42,11 +42,11 @@ When I entered the scenario into ChatGPT, it gave me an [initial perspective](..
 - The storm was unusually severe and even healthy trees struggle.
 - The brach's position made it more vulnerable to falling.
 
-These narratives helped me consider different factors and prompted me to take a closer looka t the tree's health, rather than just blaming the storm.
+These narratives helped me consider different factors and prompted me to take a closer look at the tree's health, rather than just blaming the storm.
 
 ### Conclusion
 
-Using Generative AI, like the Rashomon AI prompt, can quickly present diverse perspectives, helping us combat cognitive biases and make better decisions based on facts. 
+Using Generative AI and the Rashomon AI prompt can quickly present diverse perspectives, helping us combat cognitive biases and make better decisions based on facts. 
 
 I am excited to hear your experiences with the Rashomon AI prompt!
 
