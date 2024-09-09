@@ -1,4 +1,4 @@
-# Using Generative AI to Combat Cognitive Bias
+# Using Generative AI to Combat Cognitive Bias XXX
 
 I recently discovered [Admired Leadreship Field Notes](https://admiredleadership.com/field-notes/) by [CRA](https://crainc.com/) which shares insights leadership challenges.  This led me to [Confluence: The Intersection of AI and Communications](https://craai.substack.com/), a [Substack](https://substack.com/home) by CRA that explores AI and communication.  Confluence, now a year old, provides practical information on various AI topics.   
 
@@ -30,7 +30,7 @@ The Confluense team developed a *Rashomon AI* prompt using [Claude 3.5 Sonnet](h
 - An initial perspective on the event.
 - 3-4 alternative interpretations.
 - Analysis of key assumptions, overlooked data, and potential decision-making influences.
-- Possible cognitive biases, probing questions to challenge assumptions, additional data sources, and strategies to mitigate biases.
+- Possible cognitive biases, probing questions to challenge assumptions, additional data sources, and strategies to mitigate biases. 
 
 ### My Experience with the Rashomon AI Prompt
 
