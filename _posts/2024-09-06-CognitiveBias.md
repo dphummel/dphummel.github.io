@@ -1,8 +1,8 @@
 # Using Generative AI to Combat Cognitive Bias
 
-I recently discovered [*Confluence: The Intersection of AI and Communications*](https://craai.substack.com/) by [CRA](https://crainc.com/), a [Substack](https://substack.com/home) that explores AI and communication.  *Confluence*, now a year old, provides practical information on various AI topics.   
+In my ongoing exploration of AI’s potential to reshape our understanding and decision-making processes, I recently discovered [*Confluence: The Intersection of AI and Communications*](https://craai.substack.com/) by [CRA](https://crainc.com/), a [Substack](https://substack.com/home) that explores AI and communication.  *Confluence*, now a year old, provides practical information on various AI topics.   
 
-The [July 7, 2024, *Confluence* article](https://craai.substack.com/p/confluence-for-7724) introduced me to the Rashomon Effect and its link to cognitive bias.
+One [article](https://craai.substack.com/p/confluence-for-7724) in particular, caught my attention—its exploration of the Rashomon Effect and its connection to cognitive bias opened my eyes to new ways AI can challenge our perceptions.
 
 ### Cognitive Bias and the Rashomon Effect
 
@@ -46,13 +46,10 @@ These narratives helped me consider different factors and prompted me to take a 
 
 ### Conclusion
 
-The Rashomon AI prompt is a powerful tool that demonstrates how well-crafted prompts can enable Large Language Models (LLMs) to generate diverse perspectives, challenging our cognitive biases and enriching our decision-making process.
+The Rashomon AI prompt exemplifies how we can harness AI to not just assist in decision-making but to fundamentally enhance it by providing diverse perspectives. As we continue to explore AI’s role in reshaping intelligence, tools like these will be essential in navigating the complexities of our biases and assumptions.
 
 This exercise has shown me the value, as Elan Mollick describes in his book *Co-Intelligence*, of using AI as a thinking companion to enhance our decision-making abilities.  I’ve added the Rashomon AI prompt to my toolkit and I am looking forward to creating new prompts to explore the positive impact AI can have on my life.
 
-I encourage you to test out the Rashomon AI prompt on your own along with learning about [best practices](https://mitsloanedtech.mit.edu/ai/basics/effective-prompts/) to craft effective prompts.
-
-I am looking forward to hearing about your experiences!
-
+I encourage you to test the Rashomon AI prompt yourself and reflect on the different perspectives it reveals. Ask yourself: How might your initial assumptions have influenced your interpretation? What biases might you need to challenge in your decision-making process? Share your experiences—I’m eager to hear how AI is reshaping your approach to complex situations.
 
 ***AI Disclosure:***  I used generative AI as an editor and proofreader this article.
