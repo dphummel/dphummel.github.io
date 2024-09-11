@@ -69,10 +69,16 @@ Focus - generative AI systems
 ### Questions
  
 - What is the thesis—or main argument—of the book?
+- A.  Ethan thesis is we should be using AI (i.e., LLMs) as an intern/partner to help us learn and improve our intelligence.  AI can help us become better at the things we do today and this technology is only going to advance.  If you don't take this approach, you will be left in the dust.
   - If the author wanted you to get one idea from the book, what would it be?
-  - How does it compare or contrast to the world you know? What has the book accomplished?
+    - A. Use the four guiding principles when using LLMs.  These principles will help you learn and safeguard you against harm.
+  - How does it compare or contrast to the world you know?
+    - A. As someone with the Growth Mindset, Ethan did not have to convince me to embrace AI.  I was aware of some of the risks of AI through my readings and hands-on experiences.  I did find value in some of the arguments he shared to justify the value AI can bring to a person including the 1) the negotition example, 2) the benefit colleagues gained from using AI vs. colleagues who did not use it.  These points helped me think about the possibilities.  
+  - What has the book accomplished?
+    - A. I think the book is more geared to helping convince a person with a Fixed Mindset to embrance AI.  It is hard to tell if the book achieves this point.  
 
-- What exactly is the subject or topic of the book? Does the author cover the subject adequately?
+- What exactly is the subject or topic of the book?
+  - Does the author cover the subject adequately?
   - Does the author cover all aspects of the subject in a balanced fashion?
   - What is the approach to the subject (topical, analytical, chronological, descriptive)?
 
