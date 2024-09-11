@@ -15,3 +15,5 @@ Topics
   - I am aligned with bringing AI to the team to learn and grow!
   - The negotiation prompt has highlighted the power of LLMs.
   - Prompts are endless.
+
+***AI Disclosure:***  I used generative AI as an editor and proofreader this article.
