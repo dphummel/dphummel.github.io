@@ -4,7 +4,7 @@ As AI tools like [ChatGPT](https://www.chatgpt.com) and [Claude](https://claude.
 
 Mollick makes a strong case that it is. He argues for adopting an AI-first mindset by treating AI as a “thinking companion” to improve decision-making. By using AI daily to learn its strengths and weaknesses, you will grow by understanding when and how to harness its value. Mollick’s guiding principles help address some common concerns with AI, like its tendency to hallucinate—or predict incorrect information.
 
-While these principles don’t resolve every concern, such as human and societal risks, I believe they provide a strong foundation for learning and growth through AI. For the purposes of this article, when I refer to AI, I’m specifically talking about [Large Language Models (LLMs)](https://aws.amazon.com/what-is/large-language-model/) and tools like ChatGPT and Claude, which assist in tasks ranging from idea generation to real-time coaching.
+While these principles don’t resolve every concern, such as human and societal risks, I believe they provide a strong foundation for learning and growth through AI. For the purposes of this article, when I refer to AI, I’m specifically talking about Large Language Models (LLMs)-deep learning models that are pre-trained on vast amounts of data-and tools like ChatGPT and Claude, which assist in tasks ranging from idea generation to real-time coaching.
 
 ### Principles of Working with AI
 Mollick states, “The fact is we live in a world with AIs, and that means we need to understand how to work with them.” To guide your transition to an AI-first mindset, he provides four key principles:
@@ -35,4 +35,4 @@ While AI offers many benefits, there are concerns about its impact on human soci
 
 ### Conclusion
 
-Mollick’s four principles provide a roadmap for collaborating with AI in a way that addresses key concerns while maximizing its benefits. Whether you’re an AI enthusiast or a skeptic, adopting an AI-first mindset can transform the way you work. Start small—try using AI for tasks like brainstorming or drafting emails—and discover firsthand how it can boost your productivity and creativity. Expand your knowledge of prompt engineering by experimenting with existing prompt libraries, and share your learnings with others!
+Mollick’s four principles provide a roadmap for collaborating with AI in a way that addresses key concerns while maximizing its benefits. Whether you’re an AI enthusiast or a skeptic, adopting an AI-first mindset can transform the way you work. Start small—try using AI for tasks like brainstorming or drafting emails—and discover firsthand how it can boost your productivity and creativity. Expand your knowledge of prompt engineering by experimenting with existing prompt libraries and your learnings with others!
