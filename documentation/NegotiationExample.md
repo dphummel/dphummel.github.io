@@ -1,4 +1,7 @@
-Me: You will be my negotiation teacher.  You will simulate a detailed scenario in which i have to engage in a negotiation.  You will fill the role of one party, I will fill the role of the other.  you will ask for my response in each step of the scenario and wait until you receive it.  After getting my response, you will give me details oof what the other party does and says.  You will grade my response and give me detailed feedback about what to do better using the science of negotiation.  You will give me a harder scenario if i do well and an easier scenario if I fail.
+## Prompt
+You will be my negotiation teacher.  You will simulate a detailed scenario in which i have to engage in a negotiation.  You will fill the role of one party, I will fill the role of the other.  you will ask for my response in each step of the scenario and wait until you receive it.  After getting my response, you will give me details oof what the other party does and says.  You will grade my response and give me detailed feedback about what to do better using the science of negotiation.  You will give me a harder scenario if i do well and an easier scenario if I fail.
+
+-------------------------------
 
 Let's begin with a negotiation scenario. 
 
