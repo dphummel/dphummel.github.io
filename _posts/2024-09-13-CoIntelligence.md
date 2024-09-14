@@ -22,7 +22,7 @@ Mollick states, “The fact is we live in a world with AIs, and that means we ne
 Mollick encourages adopting an AI-first mindset, not because AI is flawless, but because working with it can foster personal and professional growth. Examples he shares include:
 
 - ***Negotiation Training***
-  - Mollick used AI to train on negotiation skills. Although imperfect, the LLM accomplished 80% of what his team took months to achieve. I personally [used this prompt in ChatGPT](../documentation/NegotiationExample.md), and within minutes, I was immersed in a negotiation scenario that pushed me to think critically. The real-time coaching was invaluable.
+  - Mollick used AI to train on negotiation skills. Although imperfect, the LLM accomplished 80% of what his team took months to achieve. I personally used this prompt in ChatGPT, and within minutes, I was immersed in a negotiation scenario that pushed me to think critically. The real-time coaching was invaluable.
 
 - ***Efficiency Gains***
   - A study by MIT researchers Shakked Noy and Whitney Zhang found that ChatGPT users reduced their task completion time by 37%, and the quality of their work increased according to human evaluators.
