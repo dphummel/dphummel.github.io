@@ -34,6 +34,8 @@ header_pages:
  
 permalink: none
 
+google_analytics: G-C6T35B0DMK
+
 rss: rss
 
 kramdown:
