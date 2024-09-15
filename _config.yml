@@ -18,9 +18,12 @@ linkedin_username: "davidphummel"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima" 
+theme: minima 
 #theme: jekyll-theme-cayman  
 #theme: jekyll-theme-minima
+
+minima:
+  skin: dark
 
 # This shows an excert on the home page
 show_excerpts: true
