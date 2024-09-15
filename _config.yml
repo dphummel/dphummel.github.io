@@ -22,7 +22,8 @@ theme: "minima"
 #theme: jekyll-theme-cayman  
 #theme: jekyll-theme-minima
 
-show_excerpts: true
+# This shows an excert on the home page
+#show_excerpts: true
  
 permalink: none
 
