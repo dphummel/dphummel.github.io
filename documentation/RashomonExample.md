@@ -1,3 +1,6 @@
+---
+layout: page
+---
 Here is ChatGPT's response to my prompt "*A branch from the tree located in my front yard had fallen to the ground last night.  A severe storm case through my town last night with very high winds and a lot of rain.*"
 
 ## Initial Perspective: ##
