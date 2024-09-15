@@ -27,7 +27,7 @@ minima:
 
 # This shows an excert on the home page
 show_excerpts: true
-paginate: 1
+# paginate: 1
 header_pages:
   - archive.md
 # - about.md
