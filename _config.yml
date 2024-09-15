@@ -29,8 +29,8 @@ minima:
 show_excerpts: true
 paginate: true
 header_pages:
-  - about.md
   - archive.md
+# - about.md
  
 permalink: none
 
