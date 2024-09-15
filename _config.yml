@@ -26,8 +26,8 @@ theme: "minima"
 show_excerpts: true
 paginate: true
 header_pages:
-  - About.md
-  - Archive.md
+  - about.md
+  - archive.md
  
 permalink: none
 
