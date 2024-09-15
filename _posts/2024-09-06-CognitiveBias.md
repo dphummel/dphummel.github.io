@@ -1,6 +1,6 @@
 # Using Generative AI to Combat Cognitive Bias
 
-In my ongoing exploration of AI’s potential to reshape our understanding and decision-making processes, I recently discovered [*Confluence: The Intersection of AI and Communications*](https://craai.substack.com/) by [CRA](https://crainc.com/), a [Substack](https://substack.com/home) that explores AI and communication.  *Confluence*, now a year old, provides practical information on various AI topics.   
+In my ongoing exploration of AI’s potential to reshape our understanding and decision-making processes, I recently discovered [*Confluence: The Intersection of AI and Communications*](https://craai.substack.com/) by [CRA](https://crainc.com/), a [Substack](https://substack.com/home) that explores AI and communication.  *Confluence*, now a year old, provides practical information on various AI topics.    
 
 One [article](https://craai.substack.com/p/confluence-for-7724) in particular, caught my attention—its exploration of the Rashomon Effect and its connection to cognitive bias opened my eyes to new ways AI can challenge our perceptions.
 
