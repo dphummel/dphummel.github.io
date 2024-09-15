@@ -21,6 +21,8 @@ linkedin_username: "davidphummel"
 theme: "minima" 
 #theme: jekyll-theme-cayman  
 #theme: jekyll-theme-minima
+
+show_excerpts: true
  
 permalink: none
 
