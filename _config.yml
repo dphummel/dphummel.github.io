@@ -23,7 +23,7 @@ theme: "minima"
 #theme: jekyll-theme-minima
 
 # This shows an excert on the home page
-#show_excerpts: true
+show_excerpts: true
 paginate: true
 header_pages:
   - About.md
