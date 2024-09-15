@@ -32,9 +32,11 @@ layout: base
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
-          <a> class="post-link" hfref="{{ post.url | relative_url }}">
-            Read Me
-          </a>
+          <h4>
+            <a class="post-read-me" href="{{ post.url | relative_url }}">
+              read more...
+            </a>
+          </h4>
         {%- endif -%}
       </li>
       {%- endfor -%}
