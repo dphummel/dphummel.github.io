@@ -23,7 +23,7 @@ theme: minima
 #theme: jekyll-theme-minima
 
 minima:
-  skin: dark
+  skin: solarized
 
 # This shows an excert on the home page
 show_excerpts: true
