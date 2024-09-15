@@ -1,6 +1,6 @@
 # *Co-Intelligence*: Exploring Ethan Mollick's Vision of Human-AI Collaboration
 
-As AI tools like [ChatGPT](https://www.chatgpt.com) and [Claude](https://claude.ai) evolve at lightning speed, the concept of *Co-Intelligence*—where humans and AI collaborate seamlessly—is becoming increasingly important. Ethan Mollick, an Associate Professor at the Wharton School of Pennsylvania and a thought leader in Artificial Intelligence, presents a compelling vision for this future: one where an AI-first mindset can unlock new levels of creativity and productivity. But is this approach worth the hype?
+As AI tools like [ChatGPT](https://www.chatgpt.com) and [Claude](https://claude.ai) evolve at lightning speed, the concept of *Co-Intelligence*—where humans and AI collaborate seamlessly—is becoming increasingly important. Ethan Mollick, an Associate Professor at the Wharton School of Pennsylvania and a thought leader in Artificial Intelligence, presents a compelling vision for this future: one where an AI-first mindset can unlock new levels of creativity and productivity. But is this approach worth the hype? 
 
 Mollick makes a strong case that it is. He argues for adopting an AI-first mindset by treating AI as a “thinking companion” to improve decision-making. By using AI daily to learn its strengths and weaknesses, you will grow by understanding when and how to harness its value. Mollick’s guiding principles help address some common concerns with AI, like its tendency to hallucinate—or predict incorrect information.
 
