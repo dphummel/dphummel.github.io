@@ -7,7 +7,7 @@ layout: page
 		<!-- Provided partially from https://gist.github.com/tuananh/7432553#gistcomment-2045413 -->
 		{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
 		{% for yearMonth in postsByYearMonth %}
-		  <h2>{{ yearMonth.name }}</h2>
+		  <h4>{{ yearMonth.name }}</h4>
 		    <ul class="archives">
 		      {% for post in yearMonth.items %}
 		        <li>
@@ -20,6 +20,5 @@ layout: page
 		      {% endfor %}
 		    </ul>
 		{% endfor %}
-		<p class="feed-subscribe"><svg class="svg-icon orange"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p>
 	  {%- endif -%}
 </div>
