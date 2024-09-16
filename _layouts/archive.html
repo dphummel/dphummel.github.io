@@ -10,11 +10,11 @@ layout: page
 		  <h4>{{ yearMonth.name }}</h4>
 		    <ul class="archives">
 		      {% for post in yearMonth.items %}
-		        <li style="font-size:medium";>
-		        	{%- assign date_format = site.minima.date_format | default: "%b %-d" -%}
+		        <li style="font-size:large";>
+		        	{%- assign date_format = site.minima.date_format | default: "%A, %B %-d" -%}
 		        	<span class="post-meta">{{ post.date | date: date_format }}</span>
 					<h8>
-						<a class="post-link" style="font-size:small;" href="{{ post.url | relative_url }}">
+						<a class="post-link" style="font-size:medium;" href="{{ post.url | relative_url }}">
 							{{ post.title | escape }}
 						</a>
 		   			</h8>
