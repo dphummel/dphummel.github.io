@@ -10,7 +10,7 @@ layout: page
 		  <h4>{{ yearMonth.name }}</h4>
 		    <ul class="archives">
 		      {% for post in yearMonth.items %}
-		        <li styple="font-size:10px";>
+		        <li style="font-size:10px";>
 		        	{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 		        	<span class="post-meta">{{ post.date | date: date_format }}</span>
 					<h8>
