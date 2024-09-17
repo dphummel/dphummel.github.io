@@ -19,17 +19,17 @@ linkedin_username: "davidphummel"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: minima 
-#theme: jekyll-theme-cayman  
-#theme: jekyll-theme-minima
 
 #masthead: /img/IntelligenceReimagined2.jpeg
 
 minima:
-  skin: solarized
+  skin: classic
 
 # This shows an excert on the home page
 show_excerpts: true
+
 # paginate: 1
+
 header_pages:
   - archive.md
 # - about.md
