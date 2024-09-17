@@ -17,6 +17,14 @@
           </span>
         </label>
 
+
+        
+{%- if site.masthead -%}
+<a href="{{ "/" | relative_url }}"><img class="site-masthead" src="{{ site.masthead | relative_url }}" alt="{{ site.title | escape }}" /></a>
+{%- else -%}
+<a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+{%- endif -%}
+
         <div class="trigger">
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
@@ -29,3 +37,4 @@
     {%- endif -%}
   </div>
 </header>
+
