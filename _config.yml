@@ -18,12 +18,13 @@ linkedin_username: "davidphummel"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: minima 
+#theme: minima
+remote_theme: jekyll/minima
 
 #masthead: /img/IntelligenceReimagined2.jpeg
 
 minima:
-  skin: classic
+  skin: auto
 
 # This shows an excert on the home page
 show_excerpts: true
