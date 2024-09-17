@@ -22,7 +22,7 @@ theme: minima
 #theme: jekyll-theme-cayman  
 #theme: jekyll-theme-minima
 
-#masthead: /img/IntelligenceReimagined.webp
+masthead: /img/IntelligenceReimagined.webp
 
 minima:
   skin: solarized
