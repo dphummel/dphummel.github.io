@@ -1,7 +1,6 @@
 ---
 layout: home
-title: Introduction
 list_title: Posts
 image: /images/IntelligenceReimagined2.jpeg
 ---
-{{ site.description }}
+<H2> {{ site.description }} </H2>
