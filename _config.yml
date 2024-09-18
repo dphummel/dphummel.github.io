@@ -32,8 +32,8 @@ show_excerpts: true
 # paginate: 1
 
 header_pages:
+  - about.md
   - archive.md
-# - about.md
  
 permalink: none
 
