@@ -15,21 +15,15 @@ linkedin_username: "davidphummel"
 #youtube_username: username
 #googleplus_username: +username
 
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
 theme: minima
 #remote_theme: jekyll/minima
-
-#masthead: /img/IntelligenceReimagined2.jpeg
-
-minima:
-  skin: auto
+#minima:
+  #skin: auto
 
 # This shows an excert on the home page
 show_excerpts: true
 
-# paginate: 1
+#paginate: 1
 
 header_pages:
   - about.md
