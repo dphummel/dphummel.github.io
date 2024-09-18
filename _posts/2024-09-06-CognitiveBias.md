@@ -1,5 +1,5 @@
 ---
-images:  /images/IntelligenceReimagined2.jpeg
+image:  /images/IntelligenceReimagined2.jpeg
 ---
 # Using Generative AI to Combat Cognitive Bias
 
