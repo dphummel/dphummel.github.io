@@ -1,6 +1,6 @@
 ---
 layout: post
-audio-discussion: https://drive.google.com/file/d/1rOesdu4hXAqUieixBlYEFsOSJEtTK5lj
+audio_discussion: https://drive.google.com/file/d/1rOesdu4hXAqUieixBlYEFsOSJEtTK5lj
 ---
 # *Co-Intelligence*: Exploring Ethan Mollick's Vision of Human-AI Collaboration
 
