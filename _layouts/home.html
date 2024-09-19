@@ -39,7 +39,14 @@ layout: base
           {{ post.excerpt }}
           <h4>
             <a class="post-read-me" href="{{ post.url | relative_url }}">
-              read more...
+              Read more...
+            </a>
+          </h4>
+           <h4>
+            {%- if page.conversation -%}
+               <a class="post-read-me" href="{{ page.conversation }}">
+                 Listen to discusion on post...
+            {%- endif -%}
             </a>
           </h4>
         {%- endif -%}
