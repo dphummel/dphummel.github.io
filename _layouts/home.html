@@ -42,10 +42,12 @@ layout: base
               Read more
             </a>
             {%- if post.audio_discussion -%}
-              or
-               <a class="post-read-me" href="{{ post.audio_discussion }}">
-                 Listen to a discussion
-               </a>
+              <h4>
+                <figure>
+                  <figcaption>Listen to discussion:</figcaption>
+                  <audio controls src="{{ post.audio_discussion }}"></audio>
+                </figure
+              </h4>
             {%- endif -%}
           </h4>
         {%- endif -%}
