@@ -44,8 +44,10 @@ layout: base
             {%- if post.audio_discussion -%}
               or
                <a class="post-read-me" href="{{ post.audio_discussion }}">
-                 Listen to a discusion about this post
+                 Listen to a discusion...
                </a>
+            {%- else -%}
+              ...
             {%- endif -%}
           </h4>
         {%- endif -%}
