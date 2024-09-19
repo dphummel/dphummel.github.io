@@ -40,14 +40,13 @@ layout: base
           <h4>
             <a class="post-read-me" href="{{ post.url | relative_url }}">
               Read more...
-              {{ post.audio_discussion }}
             </a>
           </h4>
            <h4>
              {{ post.audio_discussion }}
             {%- if post.audio_discussion -%}
-               <a class="post-read-me" href="{{ post.audio_discussion }}">
-                 Listen to discusion about this post...
+               <a class="post-read-me" href="{{ post.audio_discussion | relative_url }}">
+                 Listen to a discusion about this post...
                </a>
             {%- endif -%}
           </h4>
