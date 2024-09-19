@@ -43,9 +43,8 @@ layout: base
             </a>
           </h4>
            <h4>
-             {{ post.audio_discussion }}
             {%- if post.audio_discussion -%}
-               <a class="post-read-me" href="{{ post.audio_discussion | relative_url }}">
+               <a class="post-read-me" href="{{ post.audio_discussion }}">
                  Listen to a discusion about this post...
                </a>
             {%- endif -%}
