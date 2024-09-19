@@ -45,8 +45,10 @@ layout: base
               <h4>
                 <figure>
                   <figcaption>Listen to discussion:</figcaption>
-                  <audio controls src="{{ post.audio_discussion }}"></audio>
-                </figure
+                  <audio controls>
+                    <source src="{{ post.audio_discussion }}" />
+                  </audio>
+                </figure>
               </h4>
             {%- endif -%}
           </h4>
