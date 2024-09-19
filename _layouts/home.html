@@ -39,12 +39,12 @@ layout: base
           {{ post.excerpt }}
           <h4>
             <a class="post-read-me" href="{{ post.url | relative_url }}">
-              Read more
+              <em>Read more</em>
             </a>
             {%- if post.audio_discussion -%}
-              or
+              <em> or </em>
               <a href="{{ post.audio_discussion }}">
-                Listen to discussion about this post
+                <em>Listen to discussion about this post</em>
               </a>
             {%- endif -%}
           </h4>
