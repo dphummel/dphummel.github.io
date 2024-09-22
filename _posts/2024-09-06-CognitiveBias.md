@@ -56,4 +56,3 @@ This exercise has shown me the value, as Elan Mollick describes in his book *Co-
 
 I encourage you to test the Rashomon AI prompt yourself and reflect on the different perspectives it reveals. Ask yourself: How might your initial assumptions have influenced your interpretation? What biases might you need to challenge in your decision-making process? Share your experiences—I’m eager to hear how AI is reshaping your approach to complex situations.
 
-***AI Disclosure:***  I used generative AI as an editor and proofreader of this article.
