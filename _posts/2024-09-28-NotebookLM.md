@@ -1,5 +1,6 @@
 ---
 layout: post
+audio_discussion: https://drive.google.com/file/d/1UoP7OHxqiGvdrXDd8J8_ZtEPdTqwdx4u
 ---
 # NotebookLM: The Power of an AI Research Assistant
 I was recently intrigued by [NotebookLM's](https://notebooklm.google/) capability to generate audio discussions from various information sources, including legal agreements, web pages, course readings, research notes, and sales documents. I found myself wondering: What value could I receive from an audio discussion that I couldn't get from simply reading the information?
