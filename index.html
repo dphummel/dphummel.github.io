@@ -58,6 +58,7 @@ image: /images/IntelligenceReimagined2.jpeg
                     {{ site.paginate_path | relative_url }}
                     <a href="{{ site.paginate_path | relative_url }}">{{ page }}</a>
                 {% else %}
+                    {{ site.paginate_path | relative_url }}
                     <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
                 {% endif %}
           {% endfor %}
