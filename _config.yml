@@ -23,9 +23,10 @@ theme: minima
 # This shows an excert on the home page
 show_excerpts: true
 
+gems: [jekyll-paginate]
 paginate: 3
 paginate_path: "page:num"
-gems: [jekyll-paginate]
+
 
 header_pages:
   - about.md
