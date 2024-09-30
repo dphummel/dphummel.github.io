@@ -24,7 +24,7 @@ theme: minima
 show_excerpts: true
 
 gems: [jekyll-paginate]
-paginate: 3
+paginate: 2
 paginate_path: "page:num"
 
 
