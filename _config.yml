@@ -23,7 +23,7 @@ theme: minima
 # This shows an excert on the home page
 show_excerpts: true
 
-#paginate: 3
+paginate: 3
 
 header_pages:
   - about.md
