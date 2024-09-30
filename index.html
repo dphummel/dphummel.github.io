@@ -55,7 +55,7 @@ image: /images/IntelligenceReimagined2.jpeg
                 {% if page == paginator.page %}
                     <em>{{ page }}</em>
                 {% elseif page == 1 %}
-                    <a href={{ "/" | relative_url }">{{ page }}</a>
+                    <a href="{{ "/" | relative_url }">{{ page }}</a>
                 {% else %}
                     <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
                 {% endif %}
