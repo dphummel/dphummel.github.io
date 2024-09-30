@@ -1,6 +1,6 @@
 ---
 layout: post
-audio_discussion:  https://drive.google.com/file/d/1I9P4r8dlhbNyi76sL-Xexv4xXUXrOiE-/view?usp=drivesdk
+audio_discussion:  https://drive.google.com/file/d/1I9P4r8dlhbNyi76sL-Xexv4xXUXrOiE
 ---
 # Using Generative AI to Combat Cognitive Bias
 
