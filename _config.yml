@@ -20,7 +20,7 @@ theme: minima
 #minima:
   #skin: auto
 
-# This shows an excert on the home page
+# This shows a post excert on the home page
 show_excerpts: true
 
 gems: [jekyll-paginate]
