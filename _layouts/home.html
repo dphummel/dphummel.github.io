@@ -18,6 +18,7 @@ layout: base
   {{ site.paginate }}
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
+    {{ paginator }}
   {% else %}
     {% assign posts = site.posts %}
   {% endif %}
