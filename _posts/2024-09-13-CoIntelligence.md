@@ -1,6 +1,7 @@
 ---
 layout: post
 audio_discussion: https://drive.google.com/file/d/1rOesdu4hXAqUieixBlYEFsOSJEtTK5lj
+tags: ai-first-mindset prompt-engineering
 ---
 # *Co-Intelligence*: Exploring Ethan Mollick's Vision of Human-AI Collaboration
 
