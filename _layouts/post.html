@@ -27,15 +27,6 @@ layout: base
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-    {%- if page.tags -%}
-      <p>
-      {% for tag in page.tags %}
-          <a href="{{ site.baseurl }}/archive.html#{{ tag | slugize}}">
-            #{{ tag }}
-          </a>
-        {% endfor %}  
-      </p>
-      {%- endif -%}
     {% include navlinks.html %}
   </div>
 
