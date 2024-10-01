@@ -19,12 +19,13 @@ layout: base
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
       {%- endif -%}
       {%- if page.tags -%}
-      •   
+      <p>
       {% for tag in page.tags %}
           <a href="{{ site.baseurl }}/archive.html#{{ tag | slugize}}">
             #{{ tag }}
           </a>
         {% endfor %}  
+      </p>
       {%- endif -%}
     </p>
   </header>
