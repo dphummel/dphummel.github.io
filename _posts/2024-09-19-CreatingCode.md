@@ -1,6 +1,7 @@
 ---
 layout: post
 audio_discussion: https://drive.google.com/file/d/1dXKWV2ByEhjrfbO8SZd58W44u6OidOwC
+tags: ai-code
 ---
 # Lessons Learned from Creating Code with Generative AI
 Can AI really code as well as humans? I put ChatGPT to the test, challenging it to create a computer vision model for classifying images of dogs and cats. The results were both impressive and surprising!
