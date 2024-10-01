@@ -15,33 +15,43 @@ linkedin_username: "davidphummel"
 #youtube_username: username
 #googleplus_username: +username
 
+# Use the Minima theme for the blog - 
+# I have customized the layout of this theme.
 theme: minima
-#remote_theme: jekyll/minima
 #minima:
   #skin: auto
 
-# This shows a post excert on the home page
+# Show post excert on the home page of the blog -
+# I have added "Read more" and "Listen to a discussion about this post" 
+# links to the post excert.
 show_excerpts: true
 
+# Add pagination to the home page.
 gems: [jekyll-paginate]
 paginate: 3
 paginate_path: "page:num" 
 
-
+# Add links to About and Archive pages to the menu bar.
 header_pages:
   - about.md
   - archive.md
- 
+
+# I am not using permalink on the blog to access content.
 permalink: none
 
+# Use Google Analytics to track user activity.
 google_analytics: G-C6T35B0DMK
 
+# Support Really Simple Syndication (RSS) feed on the blog.
+# This is the label which will be used to link to the feed.
 rss: rss
 
 kramdown:
   syntax_highlighter_opts:
     disable: true
-    
+
+# jekyll-feed: add support for an rss feed to the blog.
+# jekyll-sitemap: 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
