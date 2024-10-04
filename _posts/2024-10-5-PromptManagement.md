@@ -7,11 +7,11 @@ tags:
 # Generative AI Prompt Management: Best Practices with GitHub
 
 ### The Rise of Generative AI
-Generative AI is quickly growning in use across the United States as a general purpose technology:
+Generative AI is quickly growing in use across the United States as a general purpose technology:
 
-- In 2023, around 13 million adults in the United States claimed to have used generative artificial intelligence (AI) as their primary tool for online search.  By 2027, this number is prjoected to reach over 90 million online users.  (Source: Statista)
+- In 2023, around 13 million adults in the United States claimed to have used generative artificial intelligence (AI) as their primary tool for online search.  By 2027, this number is projected to reach over 90 million online users.  (Source: Statista)
 
-- This year 100.1 million people in the US will use generative AI at least once per month, up nearly 900% from 7.8 millino in 2022.  (Source: EMARKETER)
+- This year 100.1 million people in the US will use generative AI at least once per month, up nearly 900% from 7.8 million in 2022.  (Source: EMARKETER)
  
 People are using Generative AI to conduct research, create written content, and summarize written text, for example, through the creation of prompts - natural language text that requests a Generative AI to perform a task.
 
@@ -36,7 +36,7 @@ GitHub, owned by Microsoft, is a web-based platform where you can store, share, 
 - Collaborate on shared projects without worrying about how changes will impact your work before you're ready to integrate them.
 
 ### My GitHub Prompt Repository
-I have used GitHub to create a [responsitory](https://github.com/dphummel/Prompts) to manage my publically accesssible prompts.
+I have used GitHub to create a [repository](https://github.com/dphummel/Prompts) to manage my publically accesssible prompts.
 
 #### Formatting in Markdown
 Each prompt is documented in a file using [Markdown](https://www.markdownguide.org/) - a simple and easy-to-use markup language you can use to format virtually any document. I use Markdown to document prompts because:
@@ -52,27 +52,32 @@ I also use a [prompt template](https://github.com/dphummel/Prompts/blob/main/Pro
 4. Instructions: step-by-step instructions on how to achieve the goal.
 5. Expected Input: what is the input.
 6. Expected Output: type, format, length.
-7. Example Output: demonstration of the output.****
+7. Example Output: demonstration of the output.
 
 I found this template very helpful when I created the [refined version of the prompt](https://github.com/dphummel/Prompts/blob/main/Dog-or-Cat-Model-Prompt.md) used to create code for the computer vision model.  While documenting the prompt in this structure, I realized I was documenting the thought process I went through in determining how to achieve the desired outcome with the model.
 
-The template can be overkill if you want to manage a prompt which is a simple query. You have the ability to remove sections as you see fit to ensure the right outcome.
+The template can be overkill if you want to manage a prompt which is a simple query. You have the ability to remove sections as you see fit to ensure the right outcome will be achieved.
 
 #### Executing a Prompt in a Chatbot
-To execute a prompt from the repository in a chatbot like ChatGPT, I view the prompt's "Code" in GitHub, then copy and paste the Code (or Markdown) into ChatGPT and execute.
+To execute a prompt from the repository in a chatbot like ChatGPT, I view the prompt's "Code" in GitHub, then copy and paste the Markdown into ChatGPT and execute.
 
 #### Access A Prompt Systematically
-A prompt can be accessed systematically using the URL format https://raw.githubusercontent.com/{owner}/{repo}/{branch}/{path}.  For example, here is the URL to access the content in the Rashomond AI Prompt file:
+A prompt can also be accessed systematically using the URL format:
+- https://raw.githubusercontent.com/{owner}/{repo}/{branch}/{path}.
+
+For example, here is the URL to access the content in the Rashomond AI Prompt file:
 - https://raw.githubusercontent.com/dphummel/Prompts/main/Rashomon-AI-Prompt.md.
 
-A developer might take this approach in developing an interactive application like a negociation tutor.
+A developer might take this approach in developing an interactive application like a negotiation tutor which is based off the [negotiation prompt](https://github.com/dphummel/Prompts/blob/main/Negotiation-Prompt.md) from Ethan Mollick's book *Co-Intelligence*.
 
 ### Considerations
-Unlike code, the jurory is still out on if prompts are considered intellectual property.  From one angle, a prompt can be thought of as an idea, the content we seek to find in the final output.  Intellectual property does not protect ideas.  From another angle, if we focused on the usefullness or functinoality of a prompt (versus the artistic or creative value), a decision could be made to include them under the umbrella of copyright protection. 
+Unlike code, the jurory is still out on if prompts are considered intellectual property.  From one angle, a prompt can be thought of as an idea, the content we seek to find in the final output.  However, intellectual property does not protect ideas.  From another angle, if we focused on the usefullness or functinoality of a prompt (versus the artistic or creative value), a decision could be made to include them under the umbrella of copyright protection. 
 
-This is a debate we will have to closely watch.  In the meantime, I have made sure to acknowledge the original sources of the prompts in my responsitory.  
+This is a debate we will have to closely watch.  In the meantime, I have made sure to acknowledge the original sources of the prompts in my repository.
 
 ### Conclusions
-Treating prompts like code has helped me leverage a proven code management process using GitHub. My prompts are version controlled and accessible to others to seek feedback and collaborate on changes. And I can easily access them to gain their benefits when I need them.
+Treating prompts like code has helped me leverage a proven code management process using GitHub to manage them. My prompts are version controlled and accessible to others to seek feedback and collaborate on changes. And I can easily access them to gain their benefits when I need them.
 
 As Generative AI continues to grow and evolve, effective prompt management will become increasingly crucial. By adopting code management practices for prompts, we can enhance collaboration, improve prompt quality, and accelerate AI-driven innovation.
+
+If you are interested in using GitHub to manage your prompts but you have not used this tool, you can start your learning journey here. Start organizing your prompts on GitHub today and join the community in shaping the future of AI interaction.
