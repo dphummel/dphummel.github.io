@@ -80,4 +80,4 @@ Treating prompts like code has helped me leverage a proven code management proce
 
 As Generative AI continues to grow and evolve, effective prompt management will become increasingly crucial. By adopting code management practices for prompts, we can enhance collaboration, improve prompt quality, and accelerate AI-driven innovation.
 
-If you are interested in using GitHub to manage your prompts but you have not used this tool, you can start your learning journey here. Start organizing your prompts on GitHub today and join the community in shaping the future of AI interaction.
+If you are interested in using GitHub to manage your prompts but you have not used this tool, you can start your learning journey [here]( https://docs.github.com/en/get-started/start-your-journey). Start organizing your prompts on GitHub today and join the community in shaping the future of prompt management!
