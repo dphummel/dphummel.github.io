@@ -9,9 +9,9 @@ tags:
 ### The Rise of Generative AI
 Generative AI is quickly growing in use across the United States as a general purpose technology:
 
-- In 2023, around 13 million adults in the United States claimed to have used generative artificial intelligence (AI) as their primary tool for online search.  By 2027, this number is projected to reach over 90 million online users.  (Source: Statista)
-
 - This year 100.1 million people in the US will use generative AI at least once per month, up nearly 900% from 7.8 million in 2022.  (Source: EMARKETER)
+
+
  
 People are using Generative AI to conduct research, create written content, and summarize written text, for example, through the creation of prompts - natural language text that requests a Generative AI to perform a task.
 
