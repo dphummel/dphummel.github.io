@@ -26,6 +26,8 @@ A prompt, similar to code, is an asset in which:
 3. It can be created and refined collaboratively.
 4. It can serve as input to other programs.
 
+Now that we understand the benefits of managing prompts like code, let's explore how GitHub can help us achieve this.
+
 ### Using GitHub to Manage Prompts
 [GitHub](https://github.com), owned by Microsoft, is a popular platform for version control and collaboration, primarily used by software developers to manage code. However, its features make it equally valuable for managing text-based assets like AI prompts. GitHub supports text-based file formats and offers features that align with the benefits of managing prompts as assets:
 
@@ -43,6 +45,8 @@ Each prompt is documented in a file using [Markdown](https://www.markdownguide.o
 - It enhances readability.
 - ChatGPT and Claude can parse prompts in Markdown, and a defined structure can help these tools better understand your content.
 
+For instance, you can create headers using '#' symbols, emphasize text with asterisks like *this*, and create lists with dashes or numbers.
+
 #### Prompt Template
 I also use a [prompt template](https://github.com/dphummel/Prompts/blob/main/Prompt-Template.md) to document prompts.  The template contains the following sections:
 1. Mission: goal you want to achieve.
@@ -58,7 +62,7 @@ This template proved invaluable when [refining the prompt](https://github.com/dp
 The template can be simplified for managing simpler query prompts. You have the flexibility to remove sections as needed to ensure the right outcome.
 
 #### Executing a Prompt in a Chatbot
-To execute a prompt from the repository in a chatbot like ChatGPT, I view the prompt's "Code" in GitHub, then copy and paste the Markdown into ChatGPT and execute.
+To execute a prompt from the repository in a chatbot like ChatGPT, view the prompt's "Code" in GitHub, then copy and paste the Markdown into ChatGPT and execute.
 
 #### Access A Prompt Systematically
 A prompt can also be accessed systematically using the URL format:
@@ -75,7 +79,7 @@ The legal status of prompts as intellectual property is still under debate. From
 This is a debate we will have to closely watch.  In the meantime, I have made sure to acknowledge the original sources of the prompts in my repository.
 
 ### Conclusions
-As Generative AI continues to reshape our world, mastering prompt management will be a key skill for innovators and problem-solvers. Treating prompts like code will allow you to leverage GitHub's proven code management process -  prompts are version-controlled, accessible for feedback and collaboration, and easily retrievable when needed.
+As Generative AI continues to reshape our world, mastering prompt management will be a key skill. Treating prompts like code will allow you to leverage GitHub's proven code management process -  prompts are version-controlled, accessible for feedback and collaboration, and easily retrievable when needed.
 
 By adopting GitHub for prompt management, you're not just organizing text—you're standarizing your AI workflow. Start your GitHub prompt repository today, and join a growing community of AI enthusiasts who are redefining how we interact with artificial intelligence.
 
