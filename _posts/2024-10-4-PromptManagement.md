@@ -5,13 +5,10 @@ image: /images/PromptManagement.jpg
 tags: 
 ---
 # Generative AI Prompt Management: Best Practices with GitHub
-Generative AI is quickly growing in use across the United States as a general purpose technology:
+Generative AI is quickly growing in use across the United States as a general purpose technology.  People are using Generative AI to conduct research, create written content, and summarize written text, for example, through the creation of prompts - natural language text that requests a Generative AI to perform a task.
 
 - This year 100.1 million people in the US will use generative AI at least once per month, up nearly 900% from 7.8 million in 2022.  (Source: EMARKETER)
- 
-People are using Generative AI to conduct research, create written content, and summarize written text, for example, through the creation of prompts - natural language text that requests a Generative AI to perform a task.
 
-### The Need for Prompt Management
 While writing the post [Using Generative AI to Combat Cognitie Bias](https://dphummel.github.io/CognitiveBias.html), it became clear to me that there are prompts, like the [Rashomond AI Prompt](https://github.com/dphummel/Prompts/blob/main/Rashomon-AI-Prompt.md), which I will want to use repeatedly.  However, the best way to achieve this reuse was not immediately apparent. 
 
 My research led to people using many approaches, including databases and text files. When I thought of a prompt as an asset which I want to manage - organize, store, retrieve, and refine - I asked myself: why not manage a prompt like I manage code?
