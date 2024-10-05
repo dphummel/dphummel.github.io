@@ -1,7 +1,7 @@
 ---
 layout: post
 audio_discussion:  
-image: /images/PromptManagement.jpeg
+image: /images/PromptManagement.jpg
 tags: 
 ---
 # Generative AI Prompt Management: Best Practices with GitHub
