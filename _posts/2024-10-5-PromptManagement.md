@@ -8,8 +8,9 @@ tags:
 Generative AI is quickly growing in use across the United States as a general purpose technology.  This year 100.1 million people in the US will use generative AI at least once per month, up nearly 900% from 7.8 million in 2022.  (Source: EMARKETER)
 
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://github.com/user-attachments/assets/e7acdb92-7952-4f7a-83a3-afa00ebb20ec)" />
+  <img src="https://github.com/user-attachments/assets/e7acdb92-7952-4f7a-83a3-afa00ebb20ec"/>
 </p>
+
 
 People are using Generative AI to conduct research, create written content, and summarize written text, for example, through the creation of prompts - natural language text that requests a Generative AI to perform a task.  I believe there is a need to be able to use prompts repeatedly, like the [Rashomond AI Prompt](https://github.com/dphummel/Prompts/blob/main/Rashomon-AI-Prompt.md).  However, the best way to achieve this reuse was not immediately apparent. 
 
