@@ -5,7 +5,7 @@ image:
 tags: 
 ---
 # Generative AI Prompt Management: Best Practices with GitHub
-Generative AI is quickly growing in use across the United States as a general purpose technology.  This year 100.1 million people in the US will use generative AI at least once per month, up nearly 900% from 7.8 million in 2022.  (Source: EMARKETER)
+Generative AI is quickly growing in use across the United States as a general purpose technology.  This year 100.1 million people in the US will use generative AI at least once per month, up nearly 900% from 7.8 million in 2022. 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e7acdb92-7952-4f7a-83a3-afa00ebb20ec"/>
