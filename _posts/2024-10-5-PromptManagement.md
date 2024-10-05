@@ -8,7 +8,7 @@ tags:
 Have you ever created the perfect AI prompt, only to lose it in a sea of chat logs or notes? As Generative AI usage skyrockets, effective prompt management is becoming important. Let's explore how treating prompts like code can revolutionize your AI workflow.
 
 ### Generative AI Growth
-Generative AI is rapidly evolving into a general-purpose technology across the United States. The growth is staggering: according to EMARKETER, 100.1 million people in the US will use Generative AI at least once per month in 2023, a nearly 900% increase from 7.8 million in 2022.
+Generative AI is rapidly evolving into a general-purpose technology across the United States. The growth is staggering: according to EMARKETER, 100.1 million people in the US will use Generative AI at least once per month in 2024, a nearly 900% increase from 7.8 million in 2022.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e7acdb92-7952-4f7a-83a3-afa00ebb20ec"/>
