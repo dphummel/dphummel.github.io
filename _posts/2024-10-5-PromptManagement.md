@@ -45,7 +45,7 @@ Each prompt is documented in a file using [Markdown](https://www.markdownguide.o
 - It enhances readability.
 - ChatGPT and Claude can parse prompts in Markdown, and a defined structure can help these tools better understand your content.
 
-For instance, you can create headers using '#' symbols, emphasize text with asterisks like *this*, and create lists with dashes or numbers.
+For instance, you can create headers using '#' symbols and create lists with dashes or numbers.
 
 #### Prompt Template
 I also use a [prompt template](https://github.com/dphummel/Prompts/blob/main/Prompt-Template.md) to document prompts.  The template contains the following sections:
