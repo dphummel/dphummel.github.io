@@ -81,6 +81,6 @@ This is a debate we will have to closely watch.  In the meantime, I have made su
 ### Conclusions
 As Generative AI continues to reshape our world, mastering prompt management will be a key skill. Treating prompts like code will allow you to leverage GitHub's proven code management process -  prompts are version-controlled, accessible for feedback and collaboration, and easily retrievable when needed.
 
-By adopting GitHub for prompt management, you're not just organizing text—you're standarizing your AI workflow. Start your GitHub prompt repository today, and join a growing community of AI enthusiasts who are redefining how we interact with artificial intelligence.
+By adopting GitHub for prompt management, you're not just organizing text—you're standarizing your prompt workflow. Start your GitHub prompt repository today, and join a growing community of AI enthusiasts who are redefining how we interact with artificial intelligence.
 
 If you're new to GitHub but interested in using it to manage your prompts, you can start your [learning journey]( https://docs.github.com/en/get-started/start-your-journey) now. Begin organizing your prompts on GitHub today and contribute to shaping the future of prompt management!
