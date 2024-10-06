@@ -5,7 +5,7 @@ image: /images/PromptManagement.png
 tags: 
 ---
 # Generative AI Prompt Management: Best Practices with GitHub
-Have you ever created the perfect AI prompt, only to lose it in a sea of chat logs or notes? As Generative AI usage skyrockets, effective prompt management is becoming important. Let's explore how treating prompts like code can revolutionize your AI workflow.
+Have you ever created the perfect Generative AI prompt, only to lose it in a sea of chat logs or notes? As Generative AI usage skyrockets, effective prompt management is becoming important. Let's explore how treating prompts like code can revolutionize your AI workflow.
 
 ### Generative AI Growth
 Generative AI is rapidly evolving into a general-purpose technology across the United States. The growth is staggering: according to EMARKETER, 100.1 million people in the US will use Generative AI at least once per month in 2024, a nearly 900% increase from 7.8 million in 2022.
@@ -29,7 +29,7 @@ A prompt, similar to code, is an asset in which:
 Now that we understand the benefits of managing prompts like code, let's explore how GitHub can help us achieve this.
 
 ### Using GitHub to Manage Prompts
-[GitHub](https://github.com), owned by Microsoft, is a popular platform for version control and collaboration, primarily used by software developers to manage code. However, its features make it equally valuable for managing text-based assets like AI prompts. GitHub supports text-based file formats and offers features that align with the benefits of managing prompts as assets:
+[GitHub](https://github.com), owned by Microsoft, is a popular platform for version control and collaboration, primarily used by software developers to manage code. However, its features make it equally valuable for managing text-based assets like prompts. GitHub supports text-based file formats and offers features that align with the benefits of managing prompts as assets:
 
 - Showcase or share your files.
 - Track and manage changes to your files over time.
