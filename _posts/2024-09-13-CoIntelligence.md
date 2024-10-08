@@ -40,4 +40,4 @@ While AI offers many benefits, there are concerns about its impact on human soci
 
 ### Conclusion
 
-Mollick’s four principles provide a roadmap for collaborating with AI in a way that addresses key concerns while maximizing its benefits. Whether you’re an AI enthusiast or a skeptic, adopting an AI-first mindset can transform the way you work. Start small—try using AI for tasks like brainstorming or drafting emails—and discover firsthand how it can boost your productivity and creativity. Expand your knowledge of prompt engineering by experimenting with existing prompt libraries and your learnings with others!
+Mollick’s four principles provide a roadmap for collaborating with AI in a way that addresses key concerns while maximizing its benefits. Whether you’re an AI enthusiast or a skeptic, adopting an AI-first mindset can transform the way you work. Start small—try using AI for tasks like brainstorming or drafting emails—and discover firsthand how it can boost your productivity and creativity. Expand your knowledge of prompt engineering by experimenting with existing prompt libraries and share your learnings with others!
