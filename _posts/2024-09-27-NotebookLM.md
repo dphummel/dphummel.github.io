@@ -1,6 +1,7 @@
 ---
 layout: post
 audio_discussion: https://drive.google.com/file/d/1UoP7OHxqiGvdrXDd8J8_ZtEPdTqwdx4u
+image: /images/NotbookLM-Post.jpeg
 tags: google notebooklm audio-discussion
 ---
 # NotebookLM: The Power of an AI Research Assistant
