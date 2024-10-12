@@ -1,6 +1,7 @@
 ---
 layout: post
 audio_discussion: https://drive.google.com/file/d/1dXKWV2ByEhjrfbO8SZd58W44u6OidOwC
+image: /images/CreatingCode-Post.jpeg
 tags: ai-code
 ---
 # Lessons Learned from Creating Code with Generative AI
