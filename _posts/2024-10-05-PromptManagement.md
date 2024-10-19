@@ -1,6 +1,6 @@
 ---
 layout: post
-audio_discussion: /audio/PromptManagement.wav 
+audio_discussion: /audio/PromptManagement.wav
 image: images/PromptManagement-Post.jpeg
 tags: 
 ---
