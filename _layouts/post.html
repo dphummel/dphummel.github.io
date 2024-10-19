@@ -19,7 +19,11 @@ layout: base
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
       {%- endif -%}
     </p>
-
+    {%- if page.audio_discussion -%}
+      <audio controls>
+        <source src="https://docs.google.com/uc?export=download&id=1cbUTvpDwoNudHL5cTn-cNrvExXBBGXa4" type="audio/wav">
+      </audio>
+    {%- endif -%}
   </header>
 
 
