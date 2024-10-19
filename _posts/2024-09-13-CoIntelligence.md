@@ -1,6 +1,6 @@
 ---
 layout: post
-audio_discussion: https://drive.google.com/file/d/1rOesdu4hXAqUieixBlYEFsOSJEtTK5lj
+audio_discussion: /audio/CoIntelligence.wav
 image: /images/CoIntelligence-BookCover.jpeg
 tags: ai-first-mindset prompt-engineering
 ---
