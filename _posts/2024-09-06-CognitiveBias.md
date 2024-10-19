@@ -1,6 +1,6 @@
 ---
 layout: post
-audio_discussion:  https://drive.google.com/file/d/1I9P4r8dlhbNyi76sL-Xexv4xXUXrOiE-
+audio_discussion: /audio/CognitiveBias.wav
 image: /images/CognitiveBias-Post3.jpeg
 tags: prompt-engineering cognitive-bias rashomon
 ---
