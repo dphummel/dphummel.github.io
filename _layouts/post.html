@@ -20,9 +20,12 @@ layout: base
       {%- endif -%}
     </p>
     {%- if page.audio_discussion -%}
-      <audio controls>
-        <source src="{{ page.audio_discussion }}" type="audio/wav">
-      </audio>
+      <p class ="post-meta">
+        Discussion: Deep dive into post: 
+        <audio controls>
+          <source src="{{ page.audio_discussion }}" type="audio/wav">
+        </audio>
+      </p>
     {%- endif -%}
   </header>
 
