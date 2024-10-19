@@ -1,6 +1,6 @@
 ---
 layout: post 
-audio_discussion: https://drive.google.com/file/d/1cbUTvpDwoNudHL5cTn-cNrvExXBBGXa4
+audio_discussion: /audio/TheSkillCode.wav
 image: /images/TheSkillSet-Post.jpeg
 tags: 
 ---
