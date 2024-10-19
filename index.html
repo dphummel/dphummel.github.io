@@ -33,7 +33,11 @@ image: /images/IntelligenceReimagined2.jpeg
             {%- if post.audio_discussion -%}
               <em> or </em>
               <a href="{{ post.audio_discussion }}">
-                <em>Listen to a discussion about this post</em>
+                <em>
+                    <audio controls>
+                        <source src="{{ page.audio_discussion }}" type="audio/wav">
+                    </audio>
+                </em>
               </a>
             {%- endif -%}
           </h4>
