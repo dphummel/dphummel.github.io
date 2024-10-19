@@ -21,6 +21,12 @@ layout: base
     </p>
   </header>
 
+  {%- if page.audio -%}
+    <audio controls>
+        <source src="{{ page.audio }}" type="audio/mp3">
+    </audio>
+  {%- endif -)
+
   <div class="share-links">
     {% include sharelinks.html %}
   </div>
