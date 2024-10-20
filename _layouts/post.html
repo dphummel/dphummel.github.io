@@ -20,7 +20,7 @@ layout: base
       {%- endif -%}
     </p>
     {%- if page.audio_discussion -%}
-      <div id="audio" style="display: flex; flex-direction: column; align-items: center">
+      <div id="audio" style="display: flex; flex-direction: column; align-items: flex-start">
         <span>Discussion - Deep dive into post: </span>
         <audio controls>
           <source src="{{ page.audio_discussion }}" type="audio/wav">
