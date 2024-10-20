@@ -20,16 +20,14 @@ layout: base
       {%- endif -%}
     </p>
     {%- if page.audio_discussion -%}
-      <p class ="post-meta">
-        Discussion: Deep dive into post - 
-      </p>
+      <div id="audio" style="vertical-align: middle;">
         <audio controls>
           <source src="{{ page.audio_discussion }}" type="audio/wav">
         </audio>
+        <span>Discussion: Deep dive into post -</span>
+      </div>
     {%- endif -%}
   </header>
-
-
 
   <div class="share-links">
     {% include sharelinks.html %}
