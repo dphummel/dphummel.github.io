@@ -4,7 +4,7 @@ audio_discussion:
 image: /images/GenAITechBubble.jpg
 tags: 
 ---
-# Are We in an Generative AI Technology Bubble?
+# Are We in a Generative AI Technology Bubble?
 In the world of technology, every so often, we experience what is known as a "technology bubble" - a period when the market value of technology companies is inflated and unsustainable, driven by speculation and not by the companies' actual financial performance. This can lead to a market correction when investors realize the companies are overvalued. The notable example of a technology bubble is the dot-com bubble in the late 1990s. Are we seeing the same thing happening with Generative AI?
 
 ### Generative AI Today
