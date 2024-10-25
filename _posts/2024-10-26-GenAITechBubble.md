@@ -1,7 +1,7 @@
 ---
 layout: post 
 audio_discussion: 
-image: 
+image: /images/GenAITechBubble.jpg
 tags: 
 ---
 # Are We in an Generative AI Technology Bubble?
