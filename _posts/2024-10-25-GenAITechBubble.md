@@ -1,6 +1,6 @@
 ---
 layout: post 
-audio_discussion: 
+audio_discussion: /audio/GenAITechBubble.wav
 image: /images/GenAITechBubble.jpg
 tags: 
 ---
