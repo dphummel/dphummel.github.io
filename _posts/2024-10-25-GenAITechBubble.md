@@ -13,7 +13,7 @@ Generative AI has taken the world by storm. Startups in this space are seeing bi
 #### The Market Perspective
 According to the [2024 Gartner Hype Cycle](https://www.youtube.com/watch?v=qXKYOR3KqxQ) - a graphic representation of the maturity and adoption of technologies and their potential relevance to solving real business problems - Generative AI sits in the Trough of Disillusionment. In this phase, "interest wanes as experiments and implementations fail to deliver and producers of technology shake out or fail." The investments in technology continue if providers can improve their products to meet the expectations of early adopters.
 
-<img width="614" alt="image" src="https://github.com/user-attachments/assets/48a69f0e-41fc-423a-b043-1d3eb10597b7">
+<img width="614" alt="Screenshot 2024-10-25 at 12 18 18 PM" src="https://github.com/user-attachments/assets/e5d54416-6b86-4aa8-9c51-d1231606937a">
 
 Chris Howard, Gartner's Chief of Research, confirms this positioning based on client discussions, predicting some investment losses before the technology finds its footing in delivering true customer value. Sequoia Capital's David Cahn offers a [complementary perspective](https://www.sequoiacap.com/article/ais-600b-question/): while significant economic value will be created by AI, with innovative companies reaping the rewards, a crucial question remains about how companies will justify the current torrid pace of investment with actual revenue.
 
