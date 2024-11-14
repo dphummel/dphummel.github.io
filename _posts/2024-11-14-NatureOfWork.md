@@ -1,6 +1,6 @@
 ---
 layout: post 
-audio_discussion: 
+audio_discussion: /audio/NatureOfWork.wav
 image: /images/NatureOfWork.jpeg
 tags: 
 ---
