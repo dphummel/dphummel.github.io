@@ -80,7 +80,7 @@ In "The Coming Wave", Mustafa Suleyman argues for an urgent containment strategy
 
 - **A Culture of Learning from Failures**: Applying the aviation industry’s rigorous post-mortem approach to AI mistakes, fostering accountability and improvement.
 
-They key point is we can't continue to ride this exist wave of change nor stop it.  We have to create change which allows it to be scuplted to ensure safety which builds trust.
+They key point is we can't continue to ride this exist wave of change nor stop it.  We have to create change which allows it to be scuplted to ensure safety to build trust.
 
 ### Conclusions ###
 The trust gap in AI presents both a challenge and an opportunity. By prioritizing education, transparency, and containment, we can build AI systems that are not only powerful but worthy of public trust built on a strong foundation of safety. We have the ability to transform AI from a technology people fear into one they actively embrace and that benefits our society.
