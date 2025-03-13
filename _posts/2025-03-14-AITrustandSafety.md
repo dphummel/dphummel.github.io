@@ -1,7 +1,7 @@
 ---
 layout: post
 audio_discussion: 
-image: 
+image: /images/AITrustandSafety.jpg
 tags: 
 ---
 # Trust and Safety:  The Foundation for AI's Social Contract
