@@ -31,7 +31,7 @@ A couple of the facts which stood out to me from Richard's keynote and [the glob
 - 61% have a moderate or high sense of grievance against business, government, and the rich.  Grievance is defined by a belief that government and business make their lives harder and serve narrow interests, and wealthy people benefit unfairly from the system.
 - As illustrated in Figure 1 below, a greater sense of grievance is eroding trust across all institutions and declining trust in AI and its use by business.
 
-<img width="782" alt="image" src="https://github.com/user-attachments/assets/ea0e0b41-51c3-4937-b3bb-ca80b0737972" />
+<img width="782" alt="421565888-ea0e0b41-51c3-4937-b3bb-ca80b0737972" src="https://github.com/user-attachments/assets/aec612df-6375-493a-8bbc-31a622f0ceef" />
 <p align="center">
 Figure 1. Correlation between grievance levels and trust in AI (Source: 2025 Edelmand Trust Barometer).
 </p>
