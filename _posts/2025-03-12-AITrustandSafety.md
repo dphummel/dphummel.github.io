@@ -5,7 +5,9 @@ image: /images/AITrustandSafety.jpg
 tags: 
 ---
 # Trust and Safety:  The Foundation for AI's Social Contract
-Despite AI's rapid integration into our daily lives and extraordinary capabilities, only 32% of people in the U.S. trust it. This striking statistic from the 2025 Edelman Trust Barometer reveals a critical paradox: as artificial intelligence grows more impactful, public confidence in it remains alarmingly low. Left unaddressed, this confidence gap could create a self-reinforcing cycle where skepticism limits AI adoption, reducing opportunities to demonstrate its value and further entrenching public mistrust. What's driving this skepticism, and how can we bridge this trust gap before it hinders AI's ability to transform our society for the better?
+Despite AI's rapid integration into our daily lives and extraordinary capabilities, only 32% of people in the U.S. trust it. This striking statistic from the 2025 Edelman Trust Barometer reveals a critical paradox: as artificial intelligence grows more impactful, public confidence in it remains alarmingly low. 
+
+Left unaddressed, this confidence gap could create a self-reinforcing cycle where skepticism limits AI adoption, reducing opportunities to demonstrate its value and further entrenching public mistrust. What's driving this skepticism, and how can we bridge this trust gap before it hinders AI's ability to transform our society for the better?
 
 ### Background on the Edelman Trust Barometer ###
 
