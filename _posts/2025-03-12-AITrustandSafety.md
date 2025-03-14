@@ -66,7 +66,7 @@ Business play a crucial role in shaping AI’s perception. To foster trust, busi
 ### Safety is Critical ###
 While businesses can take significant steps to build trust through transparency and education, these efforts will be undermined without addressing the fundamental safety concerns that make many people wary of AI technology. The global risk to safety can't be overlooked due to AI's dual-use as both a beneficial and harmful technology. As progress is made toward achieving Artificial General Intelligence and eventually Artificial Superintelligence, we run a higher risk with AI's lower barrier of entry for rogue actors to commit global cyberattacks at the click of a button which could cripple our infrastructure.
 
-In "The Coming Wave", Mustafa Suleyman argues for an urgent containment strategy to mitigate the risk of harmful outcomes. Suleyman defines containment as a set of interlinked and mutually reinforcing technical, cultural, legal, and political mechanisms for maintaining societal control of AI during this time of exponential change. Through the process of "thinking about the unthinkable", Suleyman breaks containment down into a set of steps, which if acted on, can help ensure AI from the start is adapted to people, to their lives and hopes
+In "The Coming Wave", Mustafa Suleyman argues for an urgent containment strategy to mitigate the risk of harmful outcomes. Suleyman defines containment as a set of interlinked and mutually reinforcing technical, cultural, legal, and political mechanisms for maintaining societal control of AI during this time of exponential change. Through the process of "thinking about the unthinkable", Suleyman breaks containment down into a set of steps, which if acted on, can help ensure AI from the start is adapted to people, to their lives and hopes.
 
 - **Safety Programs**:  Create an AI safety programs requiring frontier companies to invest in and sharing findings with the government to track results.
 
@@ -82,9 +82,11 @@ In "The Coming Wave", Mustafa Suleyman argues for an urgent containment strategy
 
 - **A Culture of Learning from Failures**: Applying the aviation industry’s rigorous post-mortem approach to AI mistakes, fostering accountability and improvement.
 
-They key point is we can't continue to ride this exist wave of change nor stop it.  We have to create change which allows it to be scuplted to ensure safety to build trust.
+They key point is we can't continue to ride this exist "wave" of technology nor stop it.  We have to create change which allows it to be scuplted to ensure safety to build trust.
 
 ### Conclusions ###
 The trust gap in AI presents both a challenge and an opportunity. By prioritizing education, transparency, and containment, we can build AI systems that are not only powerful but worthy of public trust built on a strong foundation of safety. We have the ability to transform AI from a technology people fear into one they actively embrace and that benefits our society.
+
+And by "we," I mean each of us. The responsibility for creating trustworthy AI systems extends beyond businesses and governments to every individual. Anyone anywhere can lead change, whether through advocacy, education, or thoughtful adoption. As an example, I learned about the [Future of Life Institute](https://futureoflife.org/) whose mission is to "steer transformative technology towards benefiting life and away from extreme large-scale risks." [AI](https://futureoflife.org/focus-area/artificial-intelligence/) is one of their focus areas, and they provide options for [taking action](https://futureoflife.org/take-action/), from supporting informed policy development to participating in public discourse on AI safety.
 
 As I continue to explore these possibilities on Intelligence Reimagined, I invite you to share your thoughts: how can we collectively build AI systems worthy of trust?
